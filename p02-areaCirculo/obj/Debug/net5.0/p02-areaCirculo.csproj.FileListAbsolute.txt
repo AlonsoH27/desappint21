@@ -1,0 +1,16 @@
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.csproj.AssemblyReference.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.AssemblyInfoInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.AssemblyInfo.cs
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.csproj.CoreCompileInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.exe
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.deps.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.runtimeconfig.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.runtimeconfig.dev.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\bin\Debug\net5.0\ref\p02-areaCirculo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\bin\Debug\net5.0\p02-areaCirculo.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\obj\Debug\net5.0\ref\p02-areaCirculo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p02-areaCirculo\obj\Debug\net5.0\p02-areaCirculo.genruntimeconfig.cache
