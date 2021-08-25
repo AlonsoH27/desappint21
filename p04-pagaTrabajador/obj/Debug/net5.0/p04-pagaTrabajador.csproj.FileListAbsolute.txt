@@ -1,0 +1,16 @@
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\obj\Debug\net5.0\p04-pagaTrabajador.csproj.AssemblyReference.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\obj\Debug\net5.0\p04-pagaTrabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\obj\Debug\net5.0\p04-pagaTrabajador.AssemblyInfoInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\obj\Debug\net5.0\p04-pagaTrabajador.AssemblyInfo.cs
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\obj\Debug\net5.0\p04-pagaTrabajador.csproj.CoreCompileInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\bin\Debug\net5.0\p04-pagaTrabajador.exe
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\bin\Debug\net5.0\p04-pagaTrabajador.deps.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\bin\Debug\net5.0\p04-pagaTrabajador.runtimeconfig.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\bin\Debug\net5.0\p04-pagaTrabajador.runtimeconfig.dev.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\bin\Debug\net5.0\p04-pagaTrabajador.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\bin\Debug\net5.0\ref\p04-pagaTrabajador.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\bin\Debug\net5.0\p04-pagaTrabajador.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\obj\Debug\net5.0\p04-pagaTrabajador.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\obj\Debug\net5.0\ref\p04-pagaTrabajador.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\obj\Debug\net5.0\p04-pagaTrabajador.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p04-pagaTrabajador\obj\Debug\net5.0\p04-pagaTrabajador.genruntimeconfig.cache
