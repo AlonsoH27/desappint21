@@ -1,0 +1,16 @@
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\bin\Debug\net5.0\p02-areaTriangulo.exe
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\bin\Debug\net5.0\p02-areaTriangulo.deps.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\bin\Debug\net5.0\p02-areaTriangulo.runtimeconfig.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\bin\Debug\net5.0\p02-areaTriangulo.runtimeconfig.dev.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\bin\Debug\net5.0\p02-areaTriangulo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\bin\Debug\net5.0\ref\p02-areaTriangulo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\bin\Debug\net5.0\p02-areaTriangulo.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\obj\Debug\net5.0\p02-areaTriangulo.csproj.AssemblyReference.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\obj\Debug\net5.0\p02-areaTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\obj\Debug\net5.0\p02-areaTriangulo.AssemblyInfoInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\obj\Debug\net5.0\p02-areaTriangulo.AssemblyInfo.cs
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\obj\Debug\net5.0\p02-areaTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\obj\Debug\net5.0\p02-areaTriangulo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\obj\Debug\net5.0\ref\p02-areaTriangulo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\obj\Debug\net5.0\p02-areaTriangulo.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p03-areaTriangulo\obj\Debug\net5.0\p02-areaTriangulo.genruntimeconfig.cache
