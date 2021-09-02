@@ -1,0 +1,16 @@
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.csproj.AssemblyReference.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.AssemblyInfoInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.AssemblyInfo.cs
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.csproj.CoreCompileInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.exe
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.deps.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.runtimeconfig.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.runtimeconfig.dev.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\bin\Debug\net5.0\ref\p10-vectorcubo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\bin\Debug\net5.0\p10-vectorcubo.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\obj\Debug\net5.0\ref\p10-vectorcubo.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p10-vectorcubo\obj\Debug\net5.0\p10-vectorcubo.genruntimeconfig.cache
