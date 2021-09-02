@@ -1,0 +1,16 @@
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.csproj.AssemblyReference.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.AssemblyInfoInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.AssemblyInfo.cs
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.csproj.CoreCompileInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.exe
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.deps.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.runtimeconfig.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.runtimeconfig.dev.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\bin\Debug\net5.0\ref\p14-estadisticas.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\bin\Debug\net5.0\p14-estadisticas.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\obj\Debug\net5.0\ref\p14-estadisticas.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p14-estadisticas\obj\Debug\net5.0\p14-estadisticas.genruntimeconfig.cache
