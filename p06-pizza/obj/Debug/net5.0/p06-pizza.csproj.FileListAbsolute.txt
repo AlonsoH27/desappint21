@@ -1,0 +1,16 @@
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.csproj.AssemblyReference.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.AssemblyInfoInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.AssemblyInfo.cs
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.csproj.CoreCompileInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.exe
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.deps.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.runtimeconfig.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.runtimeconfig.dev.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\bin\Debug\net5.0\ref\p06-pizza.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\bin\Debug\net5.0\p06-pizza.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\obj\Debug\net5.0\ref\p06-pizza.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p06-pizza\obj\Debug\net5.0\p06-pizza.genruntimeconfig.cache
