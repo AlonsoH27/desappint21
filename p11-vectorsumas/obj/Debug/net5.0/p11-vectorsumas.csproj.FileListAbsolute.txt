@@ -1,0 +1,16 @@
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.csproj.AssemblyReference.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.AssemblyInfoInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.AssemblyInfo.cs
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.csproj.CoreCompileInputs.cache
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.exe
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.deps.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.runtimeconfig.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.runtimeconfig.dev.json
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\bin\Debug\net5.0\ref\p11-vectorsumas.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\bin\Debug\net5.0\p11-vectorsumas.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\obj\Debug\net5.0\ref\p11-vectorsumas.dll
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.pdb
+C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p11-vectorsumas\obj\Debug\net5.0\p11-vectorsumas.genruntimeconfig.cache
