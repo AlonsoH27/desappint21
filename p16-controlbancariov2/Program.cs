@@ -39,6 +39,10 @@ namespace p15_controlbancario
                     }
                 }
             }
+            Chequitos chk = new Chequitos();
+            chk.deposita(100);
+            chk.retiraa(0.0f);
+
         }
     }
 }
