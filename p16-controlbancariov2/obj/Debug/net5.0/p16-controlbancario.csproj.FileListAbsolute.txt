@@ -1,0 +1,16 @@
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/obj/Debug/net5.0/p16-controlbancario.csproj.AssemblyReference.cache
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/obj/Debug/net5.0/p16-controlbancario.GeneratedMSBuildEditorConfig.editorconfig
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/obj/Debug/net5.0/p16-controlbancario.AssemblyInfoInputs.cache
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/obj/Debug/net5.0/p16-controlbancario.AssemblyInfo.cs
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/obj/Debug/net5.0/p16-controlbancario.csproj.CoreCompileInputs.cache
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/bin/Debug/net5.0/p16-controlbancario
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/bin/Debug/net5.0/p16-controlbancario.deps.json
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/bin/Debug/net5.0/p16-controlbancario.runtimeconfig.json
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/bin/Debug/net5.0/p16-controlbancario.runtimeconfig.dev.json
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/bin/Debug/net5.0/p16-controlbancario.dll
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/bin/Debug/net5.0/ref/p16-controlbancario.dll
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/bin/Debug/net5.0/p16-controlbancario.pdb
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/obj/Debug/net5.0/p16-controlbancario.dll
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/obj/Debug/net5.0/ref/p16-controlbancario.dll
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/obj/Debug/net5.0/p16-controlbancario.pdb
+/home/alonso/Documentos/desappint21/p16-controlbancariov2/obj/Debug/net5.0/p16-controlbancario.genruntimeconfig.cache
