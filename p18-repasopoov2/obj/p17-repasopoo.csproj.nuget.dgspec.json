@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/p17-repasopoo.csproj": {}
+    "/home/alonso/Documentos/desappint21/p18-repasopoov2/p17-repasopoo.csproj": {}
   },
   "projects": {
-    "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/p17-repasopoo.csproj": {
+    "/home/alonso/Documentos/desappint21/p18-repasopoov2/p17-repasopoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/p17-repasopoo.csproj",
+        "projectUniqueName": "/home/alonso/Documentos/desappint21/p18-repasopoov2/p17-repasopoo.csproj",
         "projectName": "p17-repasopoo",
-        "projectPath": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/p17-repasopoo.csproj",
-        "packagesPath": "/Users/castr/.nuget/packages/",
-        "outputPath": "/Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/",
+        "projectPath": "/home/alonso/Documentos/desappint21/p18-repasopoov2/p17-repasopoo.csproj",
+        "packagesPath": "/home/alonso/.nuget/packages/",
+        "outputPath": "/home/alonso/Documentos/desappint21/p18-repasopoov2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/castr/.nuget/NuGet/NuGet.Config"
+          "/home/alonso/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

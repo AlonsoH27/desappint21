@@ -30,3 +30,21 @@
 /Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.genruntimeconfig.cache
 /Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/bin/Debug/net5.0/Newtonsoft.Json.dll
 /Users/castr/Google Drive/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.csproj.CopyComplete
+/home/alonso/Documentos/desappint21/p18-repasopoov2/bin/Debug/net5.0/p17-repasopoo
+/home/alonso/Documentos/desappint21/p18-repasopoov2/bin/Debug/net5.0/p17-repasopoo.deps.json
+/home/alonso/Documentos/desappint21/p18-repasopoov2/bin/Debug/net5.0/p17-repasopoo.runtimeconfig.json
+/home/alonso/Documentos/desappint21/p18-repasopoov2/bin/Debug/net5.0/p17-repasopoo.runtimeconfig.dev.json
+/home/alonso/Documentos/desappint21/p18-repasopoov2/bin/Debug/net5.0/p17-repasopoo.dll
+/home/alonso/Documentos/desappint21/p18-repasopoov2/bin/Debug/net5.0/ref/p17-repasopoo.dll
+/home/alonso/Documentos/desappint21/p18-repasopoov2/bin/Debug/net5.0/p17-repasopoo.pdb
+/home/alonso/Documentos/desappint21/p18-repasopoov2/bin/Debug/net5.0/Newtonsoft.Json.dll
+/home/alonso/Documentos/desappint21/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.csproj.AssemblyReference.cache
+/home/alonso/Documentos/desappint21/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/alonso/Documentos/desappint21/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.AssemblyInfoInputs.cache
+/home/alonso/Documentos/desappint21/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.AssemblyInfo.cs
+/home/alonso/Documentos/desappint21/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.csproj.CoreCompileInputs.cache
+/home/alonso/Documentos/desappint21/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.csproj.CopyComplete
+/home/alonso/Documentos/desappint21/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.dll
+/home/alonso/Documentos/desappint21/p18-repasopoov2/obj/Debug/net5.0/ref/p17-repasopoo.dll
+/home/alonso/Documentos/desappint21/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.pdb
+/home/alonso/Documentos/desappint21/p18-repasopoov2/obj/Debug/net5.0/p17-repasopoo.genruntimeconfig.cache

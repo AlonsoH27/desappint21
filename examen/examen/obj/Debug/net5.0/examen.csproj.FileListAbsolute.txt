@@ -1,0 +1,16 @@
+/home/alonso/Documentos/desappint21/examen/examen/obj/Debug/net5.0/examen.csproj.AssemblyReference.cache
+/home/alonso/Documentos/desappint21/examen/examen/obj/Debug/net5.0/examen.GeneratedMSBuildEditorConfig.editorconfig
+/home/alonso/Documentos/desappint21/examen/examen/obj/Debug/net5.0/examen.AssemblyInfoInputs.cache
+/home/alonso/Documentos/desappint21/examen/examen/obj/Debug/net5.0/examen.AssemblyInfo.cs
+/home/alonso/Documentos/desappint21/examen/examen/obj/Debug/net5.0/examen.csproj.CoreCompileInputs.cache
+/home/alonso/Documentos/desappint21/examen/examen/bin/Debug/net5.0/examen
+/home/alonso/Documentos/desappint21/examen/examen/bin/Debug/net5.0/examen.deps.json
+/home/alonso/Documentos/desappint21/examen/examen/bin/Debug/net5.0/examen.runtimeconfig.json
+/home/alonso/Documentos/desappint21/examen/examen/bin/Debug/net5.0/examen.runtimeconfig.dev.json
+/home/alonso/Documentos/desappint21/examen/examen/bin/Debug/net5.0/examen.dll
+/home/alonso/Documentos/desappint21/examen/examen/bin/Debug/net5.0/ref/examen.dll
+/home/alonso/Documentos/desappint21/examen/examen/bin/Debug/net5.0/examen.pdb
+/home/alonso/Documentos/desappint21/examen/examen/obj/Debug/net5.0/examen.dll
+/home/alonso/Documentos/desappint21/examen/examen/obj/Debug/net5.0/ref/examen.dll
+/home/alonso/Documentos/desappint21/examen/examen/obj/Debug/net5.0/examen.pdb
+/home/alonso/Documentos/desappint21/examen/examen/obj/Debug/net5.0/examen.genruntimeconfig.cache
