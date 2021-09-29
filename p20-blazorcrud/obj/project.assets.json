@@ -937,19 +937,19 @@
     ]
   },
   "packageFolders": {
-    "/home/alonso/.nuget/packages/": {}
+    "/Users/castr/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/alonso/Documentos/desappint21/p20-blazorcrud/p20-blazorcrud.csproj",
+      "projectUniqueName": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/p20-blazorcrud.csproj",
       "projectName": "p20-blazorcrud",
-      "projectPath": "/home/alonso/Documentos/desappint21/p20-blazorcrud/p20-blazorcrud.csproj",
-      "packagesPath": "/home/alonso/.nuget/packages/",
-      "outputPath": "/home/alonso/Documentos/desappint21/p20-blazorcrud/obj/",
+      "projectPath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/p20-blazorcrud.csproj",
+      "packagesPath": "/Users/castr/.nuget/packages/",
+      "outputPath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/alonso/.nuget/NuGet/NuGet.Config"
+        "/Users/castr/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -996,7 +996,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
