@@ -56,3 +56,5 @@
 /home/alonso/Documentos/desappint21/p19-blazor1/obj/Debug/net5.0/p19-blazor1.pdb
 /home/alonso/Documentos/desappint21/p19-blazor1/obj/Debug/net5.0/p19-blazor1.genruntimeconfig.cache
 /home/alonso/Documentos/desappint21/p19-blazor1/obj/Debug/net5.0/p19-blazor1.csproj.CopyComplete
+/home/alonso/Documentos/desappint21/p19-blazor1/obj/Debug/net5.0/RazorDeclaration/Pages/Todo.razor.g.cs
+/home/alonso/Documentos/desappint21/p19-blazor1/obj/Debug/net5.0/Razor/Pages/Todo.razor.g.cs

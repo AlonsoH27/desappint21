@@ -131,6 +131,39 @@
         }
       },
       {
+        "HashCode": -249262376,
+        "Kind": "Components.Component",
+        "Name": "p19_blazor1.Pages.Todo",
+        "AssemblyName": "p19-blazor1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p19_blazor1.Pages.Todo"
+        }
+      },
+      {
+        "HashCode": -23346681,
+        "Kind": "Components.Component",
+        "Name": "p19_blazor1.Pages.Todo",
+        "AssemblyName": "p19-blazor1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p19_blazor1.Pages.Todo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p19_blazor1.Pages.Todo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -8421160,
         "Kind": "Components.Component",
         "Name": "p19_blazor1.App",
@@ -15990,6 +16023,11 @@
     {
       "FilePath": "/home/alonso/Documentos/desappint21/p19-blazor1/Pages/Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/p19-blazor1/Pages/Todo.razor",
+      "TargetPath": "Pages\\Todo.razor",
       "FileKind": "component"
     },
     {
