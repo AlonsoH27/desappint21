@@ -32,7 +32,7 @@ namespace examen
             Console.WriteLine($"\nTotal profesores: {miEscuela.profesores.Count}");
             Console.WriteLine($"Total alumnos: " );
             Console.WriteLine($"Total alumnos becados: ");
-            Console.WriteLine($"Total salario profesores:");
+            Console.WriteLine($"Total salario profesores:{miEscuela.totalSalario}");
 
             Console.WriteLine("\n>>> Datos generales de los profesores: \n");
 

@@ -1,0 +1,62 @@
+﻿@page "/EditMovies/{Id}"
+@using p20_blazorcrud.Data
+@inject MovieService movieService
+@inject NavigationManager NavigationManager
+
+<h3>Edit Employee</h3>
+<form>
+    <div class="row">
+        <div class="col-md-8">
+            <div class="form-group">
+                <label formname="Name" class="control-label">Name</label>
+                <input formname="Name" class="form-control" @bind="@obj.nameMovie">
+            </div>
+
+            <div class="form-group">
+                 <label formname="Name" class="control-label">Year</label>
+                <input formname="Name" class="form-control" @bind="@obj.year">
+            </div>
+
+             <div class="form-group">
+                <label formname="Designation" class="control-label">Classification</label>
+                <input formname="Designation" class="form-control" @bind="@obj.classification">
+            </div>
+
+             <div class="form-group">
+                <label formname="City" class="control-label">Category</label>
+                <input formname="City" class="form-control" @bind="@obj.category">
+            </div>
+
+        </div>
+    </div>
+</form>
+
+<div class="row">
+    <div class="col-md-4">
+        <div class="form-group">
+            <input type="button" class="btn btn-primary" @onclick="@UpdateEmployee" value="Update"/>
+            <input type="button" class="btn btn-primary" @onclick="@Cancel" value="Cancel"/>
+        </div>
+    </div>
+</div>
+
+
+@code {
+    [Parameter]
+    public string Id {get; set;}
+
+    Movie obj = new Movie();
+
+    protected override void OnInitialized() {
+        obj = movieService.GetMovie(int.Parse(Id));
+    }
+
+    protected void UpdateEmployee() {
+        movieService.UpdateMovie(obj);
+        NavigationManager.NavigateTo("Movies");
+    }
+    protected void Cancel() {
+        NavigationManager.NavigateTo("Movies");
+    }
+
+}

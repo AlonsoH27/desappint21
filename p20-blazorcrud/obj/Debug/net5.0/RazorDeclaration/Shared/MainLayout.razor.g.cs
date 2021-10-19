@@ -13,70 +13,70 @@ namespace p20_blazorcrud.Shared
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/_Imports.razor"
+#line 1 "/home/alonso/Documentos/desappint21/p20-blazorcrud/_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/_Imports.razor"
+#line 2 "/home/alonso/Documentos/desappint21/p20-blazorcrud/_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/_Imports.razor"
+#line 3 "/home/alonso/Documentos/desappint21/p20-blazorcrud/_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/_Imports.razor"
+#line 4 "/home/alonso/Documentos/desappint21/p20-blazorcrud/_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/_Imports.razor"
+#line 5 "/home/alonso/Documentos/desappint21/p20-blazorcrud/_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/_Imports.razor"
+#line 6 "/home/alonso/Documentos/desappint21/p20-blazorcrud/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/_Imports.razor"
+#line 7 "/home/alonso/Documentos/desappint21/p20-blazorcrud/_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/_Imports.razor"
+#line 8 "/home/alonso/Documentos/desappint21/p20-blazorcrud/_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/_Imports.razor"
+#line 9 "/home/alonso/Documentos/desappint21/p20-blazorcrud/_Imports.razor"
 using p20_blazorcrud;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p20-blazorcrud/_Imports.razor"
+#line 10 "/home/alonso/Documentos/desappint21/p20-blazorcrud/_Imports.razor"
 using p20_blazorcrud.Shared;
 
 #line default

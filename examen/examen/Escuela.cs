@@ -21,6 +21,34 @@ namespace examen
             profesores.Add(profesor);
         }
         
+        public float salarioMayor{
+            get{
+                float m= (float)profesores[0].salario;
+                foreach (var p in profesores)
+                    if(p.salario>m) m =(float)p.salario;
+                return m;
+            }
+        }
+        public float salarioMenor{
+            get{
+                float m= (float)profesores[0].salario;
+                foreach (var p in profesores)
+                    if(p.salario<m) m =(float)p.salario;
+                return m;
+            }
+        }
+
+        public float totalSalario{
+            get{
+                float s=0;
+                foreach (var p in profesores)
+                {
+                    s=(float)p.salario;
+                    return s;
+                }
+                return s;
+            }
+        }
 
     }
 

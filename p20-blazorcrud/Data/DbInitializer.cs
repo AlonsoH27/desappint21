@@ -23,6 +23,4 @@ namespace p20_blazorcrud.Data {
         }
 
     }
-
-
 }
