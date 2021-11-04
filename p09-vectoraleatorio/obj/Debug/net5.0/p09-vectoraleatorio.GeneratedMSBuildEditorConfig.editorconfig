@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = p09_vectoraleatorio
-build_property.ProjectDir = C:\Users\alons\Documents\Semestre Agosto-Diciembre 2021\Desarrollo de Aplicaciones en Internet\desappint21\p09-vectoraleatorio\
+build_property.ProjectDir = /home/alonso/Documentos/desappint21/p09-vectoraleatorio/

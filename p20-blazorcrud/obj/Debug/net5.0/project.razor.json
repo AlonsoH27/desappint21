@@ -151,39 +151,6 @@
         }
       },
       {
-        "HashCode": 1189544538,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Employees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Employees"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Employees"
-        }
-      },
-      {
-        "HashCode": -1914164497,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Employees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.Pages.Employees"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Employees",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 147552189,
         "Kind": "Components.Component",
         "Name": "p20_blazorcrud.Pages.FetchData",
@@ -283,35 +250,35 @@
         }
       },
       {
-        "HashCode": 1118812805,
+        "HashCode": 1189544538,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.App",
+        "Name": "p20_blazorcrud.Pages.Employees",
         "AssemblyName": "p20-blazorcrud",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Employees"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.App"
+          "Common.TypeName": "p20_blazorcrud.Pages.Employees"
         }
       },
       {
-        "HashCode": 22416098,
+        "HashCode": -1914164497,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.App",
+        "Name": "p20_blazorcrud.Pages.Employees",
         "AssemblyName": "p20-blazorcrud",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p20_blazorcrud.App"
+            "TagName": "p20_blazorcrud.Pages.Employees"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.App",
+          "Common.TypeName": "p20_blazorcrud.Pages.Employees",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -494,6 +461,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "p20_blazorcrud.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1118812805,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.App",
+        "AssemblyName": "p20-blazorcrud",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.App"
+        }
+      },
+      {
+        "HashCode": 22416098,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.App",
+        "AssemblyName": "p20-blazorcrud",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p20_blazorcrud.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

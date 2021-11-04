@@ -1,0 +1,53 @@
+@page "/Movie"
+@using ejercicioBlazor.Data
+@inject movieService MovieService
+
+<h3>Movies info</h3>
+
+<NavLink class="nav-link" href="AddMovie" >
+    <span class="oi oi-plus">Add Movie</span>
+</NavLink>
+
+@if (MovObj is null)
+{
+    <p>><em>Loading ...</em></p>
+}
+else{
+    <table class="table">
+        <thead>
+            <th>Mov Id</th>
+            <th>Movie Name</th>
+            <th>Year</th>
+            <th>Gender</th>
+            <th>Classification</th>
+        </thead>
+        <tbody>
+            @foreach (var mov in MovObj)
+            {
+                <tr>
+                    <td>@mov.Id</td>
+                    <td>@mov.nameMovie</td>
+                    <td>@mov.year</td>
+                    <td>@mov.gender</td>
+                    <td>@mov.classification</td>
+                    <td>
+                        <a class="nac-link" href="EditMovie/@mov.Id">
+                            <span class="oi oi-pencil">Edit</span>
+                        </a>
+                        <a class="nac-link" href="DeleteMovie/@mov.Id">
+                            <span class="oi oi-trash">Deleted</span>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    List<Movie> MovObj;
+        protected override void OnInitialized()
+        {
+            <!--MovObj = MovieService.GetAllMovie();-->
+        }
+}

@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 508088279,
-        "Kind": "Components.Component",
-        "Name": "p19_blazor1.Pages.FetchData",
-        "AssemblyName": "p19-blazor1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p19_blazor1.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -1929316984,
-        "Kind": "Components.Component",
-        "Name": "p19_blazor1.Pages.FetchData",
-        "AssemblyName": "p19-blazor1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p19_blazor1.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p19_blazor1.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1862097085,
         "Kind": "Components.Component",
         "Name": "p19_blazor1.Pages.Counter",
@@ -94,6 +61,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "p19_blazor1.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 508088279,
+        "Kind": "Components.Component",
+        "Name": "p19_blazor1.Pages.FetchData",
+        "AssemblyName": "p19-blazor1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p19_blazor1.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -1929316984,
+        "Kind": "Components.Component",
+        "Name": "p19_blazor1.Pages.FetchData",
+        "AssemblyName": "p19-blazor1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p19_blazor1.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p19_blazor1.Pages.FetchData",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
