@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/p21-universidadv1.csproj": {}
+    "/Users/castr/Downloads/programas/p23-universidadv3/p21-universidadv1.csproj": {}
   },
   "projects": {
-    "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/p21-universidadv1.csproj": {
+    "/Users/castr/Downloads/programas/p23-universidadv3/p21-universidadv1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/p21-universidadv1.csproj",
+        "projectUniqueName": "/Users/castr/Downloads/programas/p23-universidadv3/p21-universidadv1.csproj",
         "projectName": "p21-universidadv1",
-        "projectPath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/p21-universidadv1.csproj",
+        "projectPath": "/Users/castr/Downloads/programas/p23-universidadv3/p21-universidadv1.csproj",
         "packagesPath": "/Users/castr/.nuget/packages/",
-        "outputPath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p23-universidadv3/obj/",
+        "outputPath": "/Users/castr/Downloads/programas/p23-universidadv3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/castr/.nuget/NuGet/NuGet.Config"

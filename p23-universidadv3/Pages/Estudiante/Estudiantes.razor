@@ -20,6 +20,7 @@
             <th>Nombre</th>
             <th>Email</th>
             <th>Fecha Ingreso</th>
+            <th>Inscripcones</th>
         </thead>
     
     <tbody>
@@ -32,6 +33,15 @@
                 <td>@i.Nombre</td>
                 <td>@i.Email</td>
                 <td>@i.FechadeIngreso.ToString("yyy-MMM-dd")</td>
+                @if(i.Inscripciones.Count==0) {
+                    <td>-sin inscripciones-</td> 
+                } else {
+                    <td>
+                        @foreach(var e in i.Inscripciones) {
+                            @e.Curso.CursoId @:- @e.Curso.Titulo <br />
+                        }
+                    </td>
+                }
                 <td>
                     <a class="nav-link" href="EditarEstudiantes/@i.Id">
                         <span class="oi oi-pencil">Editar</span>

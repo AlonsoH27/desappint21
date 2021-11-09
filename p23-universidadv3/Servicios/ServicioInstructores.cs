@@ -8,7 +8,12 @@ namespace p21_universidadv1.Servicio {
     public class ServicioInstructores {
         private UniContexto contexto;
         public ServicioInstructores(UniContexto uniContexto) => contexto = uniContexto;
-        public List<Instructor> ObtenerTodo() => contexto.Instructores.ToList();
+        public List<Instructor> ObtenerTodo() => 
+            contexto.Instructores
+            .Include(o=>o.OficinaAsignada)
+            .Include(a=>a.AsignacionCursos)
+                .ThenInclude(c=>c.Curso)
+            .ToList();
         public Instructor Obtener(int Id) {
             Instructor instructor = contexto.Instructores.FirstOrDefault(e=>e.Id.Equals(Id));
             return instructor;

@@ -29,17 +29,17 @@
                 <td>@i.Nombre</td>
                 <td>@i.Presupuesto</td>
                 <td>@i.FechaDeInicio.ToString("yyy-MMM-dd")</td>
-                <td>@i.Instructor.Apaterno</td>
+                <td>@i.Instructor.NombreCompleto</td>
                 <td>
                     <a class="nav-link" href="EditarDepartamentos/@i.DepartamentoId">
                         <span class="oi oi-pencil">Editar</span>
                     </a>
-                     <a class="nav-link" href="ElimnarDepartamentos/@i.DepartamentoId">
+                     <a class="nav-link" href="EliminarDepartamentos/@i.DepartamentoId">
                         <span class="oi oi-pencil">Eliminar</span>
                     </a>
                 </td>
             </tr>
-        }
+        } 
     </tbody>
     </table>
 }
