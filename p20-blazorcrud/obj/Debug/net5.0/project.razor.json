@@ -12,6 +12,39 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -597563261,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.AddEmployees",
+        "AssemblyName": "p20-blazorcrud",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddEmployees"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.AddEmployees"
+        }
+      },
+      {
+        "HashCode": -607431077,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.AddEmployees",
+        "AssemblyName": "p20-blazorcrud",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p20_blazorcrud.Pages.AddEmployees"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.AddEmployees",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -167207372,
         "Kind": "Components.Component",
         "Name": "p20_blazorcrud.Pages.Counter",
@@ -151,6 +184,39 @@
         }
       },
       {
+        "HashCode": 1189544538,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.Employees",
+        "AssemblyName": "p20-blazorcrud",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Employees"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.Employees"
+        }
+      },
+      {
+        "HashCode": -1914164497,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.Employees",
+        "AssemblyName": "p20-blazorcrud",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p20_blazorcrud.Pages.Employees"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.Employees",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 147552189,
         "Kind": "Components.Component",
         "Name": "p20_blazorcrud.Pages.FetchData",
@@ -217,68 +283,35 @@
         }
       },
       {
-        "HashCode": -597563261,
+        "HashCode": 1118812805,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.AddEmployees",
+        "Name": "p20_blazorcrud.App",
         "AssemblyName": "p20-blazorcrud",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "AddEmployees"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.AddEmployees"
+          "Common.TypeName": "p20_blazorcrud.App"
         }
       },
       {
-        "HashCode": -607431077,
+        "HashCode": 22416098,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.AddEmployees",
+        "Name": "p20_blazorcrud.App",
         "AssemblyName": "p20-blazorcrud",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p20_blazorcrud.Pages.AddEmployees"
+            "TagName": "p20_blazorcrud.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.AddEmployees",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1189544538,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Employees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Employees"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Employees"
-        }
-      },
-      {
-        "HashCode": -1914164497,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Employees",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.Pages.Employees"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Employees",
+          "Common.TypeName": "p20_blazorcrud.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -461,39 +494,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "p20_blazorcrud.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1118812805,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.App",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.App"
-        }
-      },
-      {
-        "HashCode": 22416098,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.App",
-        "AssemblyName": "p20-blazorcrud",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

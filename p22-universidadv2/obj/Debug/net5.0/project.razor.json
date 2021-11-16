@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/p21-universidadv1.csproj",
+  "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/p21-universidadv1.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -41,6 +41,105 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "p21_universidadv1.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1693185299,
+        "Kind": "Components.Component",
+        "Name": "p21_universidadv1.Pages.Curso.Cursos",
+        "AssemblyName": "p21-universidadv1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Cursos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p21_universidadv1.Pages.Curso.Cursos"
+        }
+      },
+      {
+        "HashCode": 2059403414,
+        "Kind": "Components.Component",
+        "Name": "p21_universidadv1.Pages.Curso.Cursos",
+        "AssemblyName": "p21-universidadv1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p21_universidadv1.Pages.Curso.Cursos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p21_universidadv1.Pages.Curso.Cursos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -164993274,
+        "Kind": "Components.Component",
+        "Name": "p21_universidadv1.Pages.Departamento.Departamentos",
+        "AssemblyName": "p21-universidadv1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Departamentos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p21_universidadv1.Pages.Departamento.Departamentos"
+        }
+      },
+      {
+        "HashCode": 1156456962,
+        "Kind": "Components.Component",
+        "Name": "p21_universidadv1.Pages.Departamento.Departamentos",
+        "AssemblyName": "p21-universidadv1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p21_universidadv1.Pages.Departamento.Departamentos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p21_universidadv1.Pages.Departamento.Departamentos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 937852736,
+        "Kind": "Components.Component",
+        "Name": "p21_universidadv1.Pages.Estudiante.Estudiantes",
+        "AssemblyName": "p21-universidadv1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Estudiantes"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p21_universidadv1.Pages.Estudiante.Estudiantes"
+        }
+      },
+      {
+        "HashCode": -255436266,
+        "Kind": "Components.Component",
+        "Name": "p21_universidadv1.Pages.Estudiante.Estudiantes",
+        "AssemblyName": "p21-universidadv1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p21_universidadv1.Pages.Estudiante.Estudiantes"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p21_universidadv1.Pages.Estudiante.Estudiantes",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -111,39 +210,6 @@
         }
       },
       {
-        "HashCode": 937852736,
-        "Kind": "Components.Component",
-        "Name": "p21_universidadv1.Pages.Estudiante.Estudiantes",
-        "AssemblyName": "p21-universidadv1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Estudiantes"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p21_universidadv1.Pages.Estudiante.Estudiantes"
-        }
-      },
-      {
-        "HashCode": -255436266,
-        "Kind": "Components.Component",
-        "Name": "p21_universidadv1.Pages.Estudiante.Estudiantes",
-        "AssemblyName": "p21-universidadv1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p21_universidadv1.Pages.Estudiante.Estudiantes"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p21_universidadv1.Pages.Estudiante.Estudiantes",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1333086686,
         "Kind": "Components.Component",
         "Name": "p21_universidadv1.Pages.Instructor.Instructores",
@@ -173,72 +239,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "p21_universidadv1.Pages.Instructor.Instructores",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -164993274,
-        "Kind": "Components.Component",
-        "Name": "p21_universidadv1.Pages.Departamento.Departamentos",
-        "AssemblyName": "p21-universidadv1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Departamentos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p21_universidadv1.Pages.Departamento.Departamentos"
-        }
-      },
-      {
-        "HashCode": 1156456962,
-        "Kind": "Components.Component",
-        "Name": "p21_universidadv1.Pages.Departamento.Departamentos",
-        "AssemblyName": "p21-universidadv1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p21_universidadv1.Pages.Departamento.Departamentos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p21_universidadv1.Pages.Departamento.Departamentos",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1693185299,
-        "Kind": "Components.Component",
-        "Name": "p21_universidadv1.Pages.Curso.Cursos",
-        "AssemblyName": "p21-universidadv1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Cursos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p21_universidadv1.Pages.Curso.Cursos"
-        }
-      },
-      {
-        "HashCode": 2059403414,
-        "Kind": "Components.Component",
-        "Name": "p21_universidadv1.Pages.Curso.Cursos",
-        "AssemblyName": "p21-universidadv1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p21_universidadv1.Pages.Curso.Cursos"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p21_universidadv1.Pages.Curso.Cursos",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16065,74 +16065,74 @@
   "RootNamespace": "p21_universidadv1",
   "Documents": [
     {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/App.razor",
-      "TargetPath": "App.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Pages/Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Pages/Index.razor",
-      "TargetPath": "Pages\\Index.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Pages/_Host.cshtml",
-      "TargetPath": "Pages\\_Host.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Pages/Curso/Cursos.razor",
-      "TargetPath": "Pages\\Curso\\Cursos.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Pages/Estudiante/Estudiantes.razor",
-      "TargetPath": "Pages\\Estudiante\\Estudiantes.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Shared/NavMenu.razor",
-      "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Pages/FetchData.razor",
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Pages/FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Shared/MainLayout.razor",
-      "TargetPath": "Shared\\MainLayout.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Pages/Departamento/Departamentos.razor",
-      "TargetPath": "Pages\\Departamento\\Departamentos.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Pages/Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Pages/Instructor/Instructores.razor",
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Pages/Instructor/Instructores.razor",
       "TargetPath": "Pages\\Instructor\\Instructores.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/Shared/SurveyPrompt.razor",
-      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Shared/NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
       "FileKind": "component"
     },
     {
-      "FilePath": "/Volumes/GoogleDrive/Mi unidad/uaz-2021/clases-ad-2021/04-desappinter-ic/programas/p22-universidadv2/_Imports.razor",
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Pages/Estudiante/Estudiantes.razor",
+      "TargetPath": "Pages\\Estudiante\\Estudiantes.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Shared/MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Pages/Departamento/Departamentos.razor",
+      "TargetPath": "Pages\\Departamento\\Departamentos.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Pages/_Host.cshtml",
+      "TargetPath": "Pages\\_Host.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Pages/Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Pages/Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Pages/Curso/Cursos.razor",
+      "TargetPath": "Pages\\Curso\\Cursos.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Pages/Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/p22-universidadv2/Shared/SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
     }
   ],
   "SerializationFormat": "0.2"

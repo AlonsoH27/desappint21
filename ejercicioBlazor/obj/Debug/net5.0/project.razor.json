@@ -12,35 +12,200 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1996869770,
+        "HashCode": 268343760,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Shared.NavMenu",
+        "Name": "p20_blazorcrud.App",
         "AssemblyName": "ejercicioBlazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "NavMenu"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Shared.NavMenu"
+          "Common.TypeName": "p20_blazorcrud.App"
         }
       },
       {
-        "HashCode": 312281163,
+        "HashCode": 69212625,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Shared.NavMenu",
+        "Name": "p20_blazorcrud.App",
         "AssemblyName": "ejercicioBlazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p20_blazorcrud.Shared.NavMenu"
+            "TagName": "p20_blazorcrud.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Shared.NavMenu",
+          "Common.TypeName": "p20_blazorcrud.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1918694037,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.AddMovie",
+        "AssemblyName": "ejercicioBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AddMovie"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.AddMovie"
+        }
+      },
+      {
+        "HashCode": -913769365,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.AddMovie",
+        "AssemblyName": "ejercicioBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p20_blazorcrud.Pages.AddMovie"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.AddMovie",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1043554668,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.Counter",
+        "AssemblyName": "ejercicioBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": 944711946,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.Counter",
+        "AssemblyName": "ejercicioBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p20_blazorcrud.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2121007858,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.FetchData",
+        "AssemblyName": "ejercicioBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -2058804948,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.FetchData",
+        "AssemblyName": "ejercicioBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p20_blazorcrud.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2130237138,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.Index",
+        "AssemblyName": "ejercicioBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1311894671,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.Index",
+        "AssemblyName": "ejercicioBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p20_blazorcrud.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -157955647,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.Movie",
+        "AssemblyName": "ejercicioBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Movie"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.Movie"
+        }
+      },
+      {
+        "HashCode": 1590522088,
+        "Kind": "Components.Component",
+        "Name": "p20_blazorcrud.Pages.Movie",
+        "AssemblyName": "ejercicioBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p20_blazorcrud.Pages.Movie"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p20_blazorcrud.Pages.Movie",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -194,200 +359,35 @@
         }
       },
       {
-        "HashCode": 1918694037,
+        "HashCode": -1996869770,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.AddMovie",
+        "Name": "p20_blazorcrud.Shared.NavMenu",
         "AssemblyName": "ejercicioBlazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "AddMovie"
+            "TagName": "NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.AddMovie"
+          "Common.TypeName": "p20_blazorcrud.Shared.NavMenu"
         }
       },
       {
-        "HashCode": -913769365,
+        "HashCode": 312281163,
         "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.AddMovie",
+        "Name": "p20_blazorcrud.Shared.NavMenu",
         "AssemblyName": "ejercicioBlazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "p20_blazorcrud.Pages.AddMovie"
+            "TagName": "p20_blazorcrud.Shared.NavMenu"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.AddMovie",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -157955647,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Movie",
-        "AssemblyName": "ejercicioBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Movie"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Movie"
-        }
-      },
-      {
-        "HashCode": 1590522088,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Movie",
-        "AssemblyName": "ejercicioBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.Pages.Movie"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Movie",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2130237138,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Index",
-        "AssemblyName": "ejercicioBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 1311894671,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Index",
-        "AssemblyName": "ejercicioBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2121007858,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.FetchData",
-        "AssemblyName": "ejercicioBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": -2058804948,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.FetchData",
-        "AssemblyName": "ejercicioBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1043554668,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Counter",
-        "AssemblyName": "ejercicioBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 944711946,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.Pages.Counter",
-        "AssemblyName": "ejercicioBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 268343760,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.App",
-        "AssemblyName": "ejercicioBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.App"
-        }
-      },
-      {
-        "HashCode": 69212625,
-        "Kind": "Components.Component",
-        "Name": "p20_blazorcrud.App",
-        "AssemblyName": "ejercicioBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "p20_blazorcrud.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "p20_blazorcrud.App",
+          "Common.TypeName": "p20_blazorcrud.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
