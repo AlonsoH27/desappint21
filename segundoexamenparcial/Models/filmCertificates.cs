@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace segundoexamenparcial.Modelo
 {
-    public class filmCerticates {
+    public class filmCertificates {
         [Key]
         public int filmCertificateId {get; set;}
         public string Certificate {get; set;}

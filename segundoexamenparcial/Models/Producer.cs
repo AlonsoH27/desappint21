@@ -4,7 +4,7 @@ using System.Collections.Generic;
 
 namespace segundoexamenparcial.Modelo
 {
-    public class Producers {
+    public class Producer {
         [Key]
         public int producerID {get; set;}
         public string producerName {get; set;}

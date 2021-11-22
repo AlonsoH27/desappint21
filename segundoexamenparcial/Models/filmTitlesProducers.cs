@@ -10,6 +10,6 @@ namespace segundoexamenparcial.Modelo
         public int filmTitleId {get; set;}
 
         public filmTitles filmTitles {get; set;}
-        public Producers Producers {get; set;}
+        public Producer Producer {get; set;}
     }
 }

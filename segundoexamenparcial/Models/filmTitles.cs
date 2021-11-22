@@ -19,7 +19,7 @@ namespace segundoexamenparcial.Modelo
         public string filmAdditionalInfo {get; set;}
 
         public filmGenres filmGenres {get; set;}
-        public filmCerticates filmCerticates {get; set;}
+        public filmCertificates filmCertificates {get; set;}
         public ICollection<filmsActorRoles> filmsActoresRoles {get; set;}
         public ICollection<filmTitlesProducers> filmTitlesProducers {get; set;}
 
