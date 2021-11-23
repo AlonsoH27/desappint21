@@ -89,3 +89,9 @@
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/Actores/EditarActor.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/Actores/EliminarActor.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/Actores/EliminarActor.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/RoleTypes/AgregarRoleType.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/RoleTypes/RoleType.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/RoleTypes/AgregarRoleType.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/RoleTypes/RoleType.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/RoleTypes/EditarRoleType.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/RoleTypes/EditarRoleType.razor.g.cs

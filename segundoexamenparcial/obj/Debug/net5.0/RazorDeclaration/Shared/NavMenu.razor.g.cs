@@ -90,7 +90,7 @@ using segundoexamenparcial.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 18 "/home/alonso/Documentos/desappint21/segundoexamenparcial/Shared/NavMenu.razor"
+#line 50 "/home/alonso/Documentos/desappint21/segundoexamenparcial/Shared/NavMenu.razor"
        
     private bool collapseNavMenu = true;
 

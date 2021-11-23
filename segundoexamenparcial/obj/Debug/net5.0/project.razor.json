@@ -12,138 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -505532027,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.Actores.Actores",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Actores"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.Actores.Actores"
-        }
-      },
-      {
-        "HashCode": 1223797362,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.Actores.Actores",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "segundoexamenparcial.Pages.Actores.Actores"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.Actores.Actores",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -470021593,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.Actores.EditarActor",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EditarActor"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.Actores.EditarActor"
-        }
-      },
-      {
-        "HashCode": -751813220,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.Actores.EditarActor",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "segundoexamenparcial.Pages.Actores.EditarActor"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.Actores.EditarActor",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1260031104,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.Actores.AgregarActores",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AgregarActores"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.Actores.AgregarActores"
-        }
-      },
-      {
-        "HashCode": -1293269635,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.Actores.AgregarActores",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "segundoexamenparcial.Pages.Actores.AgregarActores"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.Actores.AgregarActores",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 502098085,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.Actores.EliminarActor",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EliminarActor"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.Actores.EliminarActor"
-        }
-      },
-      {
-        "HashCode": -1542153349,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.Actores.EliminarActor",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "segundoexamenparcial.Pages.Actores.EliminarActor"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.Actores.EliminarActor",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1713979725,
         "Kind": "Components.Component",
         "Name": "segundoexamenparcial.Pages.Counter",
@@ -239,6 +107,270 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "segundoexamenparcial.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1260031104,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.Actores.AgregarActores",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarActores"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.Actores.AgregarActores"
+        }
+      },
+      {
+        "HashCode": -1293269635,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.Actores.AgregarActores",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.Actores.AgregarActores"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.Actores.AgregarActores",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -505532027,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.Actores.Actores",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Actores"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.Actores.Actores"
+        }
+      },
+      {
+        "HashCode": 1223797362,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.Actores.Actores",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.Actores.Actores"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.Actores.Actores",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -470021593,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.Actores.EditarActor",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditarActor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.Actores.EditarActor"
+        }
+      },
+      {
+        "HashCode": -751813220,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.Actores.EditarActor",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.Actores.EditarActor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.Actores.EditarActor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 502098085,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.Actores.EliminarActor",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EliminarActor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.Actores.EliminarActor"
+        }
+      },
+      {
+        "HashCode": -1542153349,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.Actores.EliminarActor",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.Actores.EliminarActor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.Actores.EliminarActor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1875503634,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.RoleTypes.RoleType",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "RoleType"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.RoleTypes.RoleType"
+        }
+      },
+      {
+        "HashCode": 1340304186,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.RoleTypes.RoleType",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.RoleTypes.RoleType"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.RoleTypes.RoleType",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 679044006,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.RoleTypes.AgregarRoleType",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarRoleType"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.RoleTypes.AgregarRoleType"
+        }
+      },
+      {
+        "HashCode": -1719086908,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.RoleTypes.AgregarRoleType",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.RoleTypes.AgregarRoleType"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.RoleTypes.AgregarRoleType",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1358691432,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.RoleTypes.EditarRoleType",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditarRoleType"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.RoleTypes.EditarRoleType"
+        }
+      },
+      {
+        "HashCode": -1551361178,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.RoleTypes.EditarRoleType",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.RoleTypes.EditarRoleType"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.RoleTypes.EditarRoleType",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1187624626,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.RoleTypes.EliminarRoleType",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EliminarRoleType"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.RoleTypes.EliminarRoleType"
+        }
+      },
+      {
+        "HashCode": 896548807,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.RoleTypes.EliminarRoleType",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.RoleTypes.EliminarRoleType"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.RoleTypes.EliminarRoleType",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16080,6 +16212,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/RoleTypes/AgregarRoleType.razor",
+      "TargetPath": "Pages\\RoleTypes\\AgregarRoleType.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Shared/MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
@@ -16087,6 +16224,16 @@
     {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/Index.razor",
       "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/RoleTypes/EliminarRoleType.razor",
+      "TargetPath": "Pages\\RoleTypes\\EliminarRoleType.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/RoleTypes/RoleType.razor",
+      "TargetPath": "Pages\\RoleTypes\\RoleType.razor",
       "FileKind": "component"
     },
     {
@@ -16122,6 +16269,11 @@
     {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/Actores/EliminarActor.razor",
       "TargetPath": "Pages\\Actores\\EliminarActor.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/RoleTypes/EditarRoleType.razor",
+      "TargetPath": "Pages\\RoleTypes\\EditarRoleType.razor",
       "FileKind": "component"
     },
     {

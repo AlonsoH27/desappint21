@@ -1,0 +1,19 @@
+@page "/EliminarRoleType"
+@inject NavigationManager NavigationManager
+
+<h3>Eliminar role types</h3>
+
+<div class="row">
+    <div class="col-md-8">
+        <div class="form-group">
+            <label for="roleTypeId" class="control-label">Role type id</label>
+            <input type="text" id="fullName" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label for="roleType" class="control-label">Role type</label>
+            <input type="text" id="fullName" class="form-control" required minlength="4" maxlength="4" size="4"/>
+        </div>
+        <button type="submit" class="btn btn-primary" >Eliminar</button>
+        <button type="button" class="btn btn-primary" >Cancelar</button>
+    </div>
+</div>

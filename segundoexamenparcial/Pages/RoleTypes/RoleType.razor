@@ -1,0 +1,45 @@
+@page "/RoleType"
+@using segundoexamenparcial.Modelo;
+
+<h3>Role types</h3>
+
+<NavLink class="nav-link" href="AgregarRoleType">
+    <span class="oi oi-plus">Agregar role type</span>
+</NavLink>
+
+@if (obj is null)
+{
+    <p>Cargando . . .</p>
+} else {
+    <table class="table">
+        <thead>
+            <th>Role type id</th>
+            <th>Role type</th>
+            <th>Films actores roles id</th>
+        </thead>
+
+    <tbody>
+        @foreach (var i in obj)
+        {
+            <tr>
+                <td>@i.roleTypeId</td>
+                <td>@i.roleType</td>
+                <td>@i.filmsActoresRoles</td>
+                <td>
+                    <a class="nav-link" href="EditarRoleType/@i.roleTypeId">
+                        <span class="oi oi-pencil">Editar</span>
+                    </a>
+                     <a class="nav-link" href="EliminarRoleType/@i.roleTypeId">
+                        <span class="oi oi-pencil">Eliminar</span>
+                    </a>
+                </td>
+            </tr>    
+        }
+    </tbody>
+
+    </table>
+}
+
+@code {
+    List<roleTypes> obj;
+}
