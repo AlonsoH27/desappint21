@@ -85,3 +85,7 @@
 /home/alonso/Documentos/desappint21/segundoexamenparcial/bin/Debug/net5.0/runtimes/win-arm64/native/e_sqlite3.dll
 /home/alonso/Documentos/desappint21/segundoexamenparcial/bin/Debug/net5.0/runtimes/win-x64/native/e_sqlite3.dll
 /home/alonso/Documentos/desappint21/segundoexamenparcial/bin/Debug/net5.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/Actores/EditarActor.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/Actores/EditarActor.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/Actores/EliminarActor.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/Actores/EliminarActor.razor.g.cs
