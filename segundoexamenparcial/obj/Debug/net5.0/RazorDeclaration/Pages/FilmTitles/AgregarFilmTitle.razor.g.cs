@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace segundoexamenparcial.Pages.FilmGenres
+namespace segundoexamenparcial.Pages.FilmTitles
 {
     #line hidden
     using System;
@@ -82,8 +82,8 @@ using segundoexamenparcial.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/EliminarFilmGenres")]
-    public partial class EliminarFilmGenres : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/AgregarFilmTitle")]
+    public partial class AgregarFilmTitle : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)

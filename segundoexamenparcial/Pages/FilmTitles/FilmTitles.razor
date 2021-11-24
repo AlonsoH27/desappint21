@@ -1,0 +1,54 @@
+@page "/FilmTitles"
+@using segundoexamenparcial.Modelo;
+
+<h3>Información de film titles</h3>
+
+<NavLink class="nav-link" href="AgregarFilmTitle">
+    <span class="oi oi-plus">Agregar nuevo film title</span>
+</NavLink>
+
+@if (obj is null)
+{
+    <p>Cargando . . .</p>
+} else {
+    <table class="table">
+        <thead>
+            <th>Film title Id</th>
+            <th>Film title name</th>
+            <th>Film story</th>
+            <th>Film release date</th>
+            <th>Film duration</th>
+            <th>Film genre Id</th>
+            <th>Film certificate Id</th>
+            <th>Film additional info</th>
+        </thead>
+
+    <tbody>
+        @foreach (var i in obj)
+        {
+            <tr>
+                <td>@i.filmTitleId</td>
+                <td>@i.filmTitleName</td>
+                <td>@i.filmStory</td>
+                <td>@i.filmReleaseDate</td>
+                <td>@i.filmDuraction</td>
+                <td>@i.filmGenreId</td>
+                <td>@i.filmCertificateId</td>
+                <td>@i.filmAdditionalInfo</td>
+                <td>
+                    <a class="nav-link" href="EditarFilmTitle/@i.filmTitleId">
+                        <span class="oi oi-pencil">Editar</span>
+                    </a>
+                     <a class="nav-link" href="EliminarFilmTitle/@i.filmTitleId">
+                        <span class="oi oi-pencil">Eliminar</span>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+    </table>
+}
+
+@code {
+    List<filmTitles> obj;
+}

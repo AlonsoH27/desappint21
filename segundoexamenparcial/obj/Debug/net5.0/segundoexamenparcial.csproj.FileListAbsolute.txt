@@ -111,3 +111,9 @@
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmGenres/AgregarFilmGenres.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmGenres/EditarFilmGenres.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmGenres/EditarFilmGenres.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmGenres/EliminarFilmGenres.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmTitles/FilmTitles.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmGenres/EliminarFilmGenres.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmTitles/FilmTitles.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmTitles/AgregarFilmTitle.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmTitles/AgregarFilmTitle.razor.g.cs

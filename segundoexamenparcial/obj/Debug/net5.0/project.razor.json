@@ -639,6 +639,138 @@
         }
       },
       {
+        "HashCode": 1942329022,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmTitles.FilmTitles",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FilmTitles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmTitles.FilmTitles"
+        }
+      },
+      {
+        "HashCode": 1207249170,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmTitles.FilmTitles",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.FilmTitles.FilmTitles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmTitles.FilmTitles",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1382549690,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmTitles.EditarFilmTitles",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditarFilmTitles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmTitles.EditarFilmTitles"
+        }
+      },
+      {
+        "HashCode": -1421949016,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmTitles.EditarFilmTitles",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.FilmTitles.EditarFilmTitles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmTitles.EditarFilmTitles",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1533778832,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmTitles.AgregarFilmTitle",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarFilmTitle"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmTitles.AgregarFilmTitle"
+        }
+      },
+      {
+        "HashCode": -1306135660,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmTitles.AgregarFilmTitle",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.FilmTitles.AgregarFilmTitle"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmTitles.AgregarFilmTitle",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 952806316,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmTitles.EliminarFilmTitles",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EliminarFilmTitles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmTitles.EliminarFilmTitles"
+        }
+      },
+      {
+        "HashCode": 835506105,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmTitles.EliminarFilmTitles",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.FilmTitles.EliminarFilmTitles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmTitles.EliminarFilmTitles",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -390671101,
         "Kind": "Components.Component",
         "Name": "segundoexamenparcial.App",
@@ -16521,6 +16653,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmTitles/AgregarFilmTitle.razor",
+      "TargetPath": "Pages\\FilmTitles\\AgregarFilmTitle.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FetchData.razor",
       "TargetPath": "Pages\\FetchData.razor",
       "FileKind": "component"
@@ -16561,8 +16698,18 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmTitles/EliminarFilmTitles.razor",
+      "TargetPath": "Pages\\FilmTitles\\EliminarFilmTitles.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Shared/NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmTitles/FilmTitles.razor",
+      "TargetPath": "Pages\\FilmTitles\\FilmTitles.razor",
       "FileKind": "component"
     },
     {
@@ -16588,6 +16735,11 @@
     {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/Actores/AgregarActores.razor",
       "TargetPath": "Pages\\Actores\\AgregarActores.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmTitles/EditarFilmTitles.razor",
+      "TargetPath": "Pages\\FilmTitles\\EditarFilmTitles.razor",
       "FileKind": "component"
     }
   ],

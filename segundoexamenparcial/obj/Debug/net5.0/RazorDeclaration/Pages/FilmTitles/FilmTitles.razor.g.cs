@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace segundoexamenparcial.Pages.FilmGenres
+namespace segundoexamenparcial.Pages.FilmTitles
 {
     #line hidden
     using System;
@@ -82,15 +82,29 @@ using segundoexamenparcial.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/EliminarFilmGenres")]
-    public partial class EliminarFilmGenres : Microsoft.AspNetCore.Components.ComponentBase
+#nullable restore
+#line 2 "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmTitles/FilmTitles.razor"
+using segundoexamenparcial.Modelo;
+
+#line default
+#line hidden
+#nullable disable
+    [Microsoft.AspNetCore.Components.RouteAttribute("/FilmTitles")]
+    public partial class FilmTitles : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
+#nullable restore
+#line 52 "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmTitles/FilmTitles.razor"
+       
+    List<filmTitles> obj;
+
+#line default
+#line hidden
+#nullable disable
     }
 }
 #pragma warning restore 1591
