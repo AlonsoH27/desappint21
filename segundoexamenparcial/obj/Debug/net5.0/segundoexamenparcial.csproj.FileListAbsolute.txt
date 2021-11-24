@@ -95,3 +95,9 @@
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/RoleTypes/RoleType.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/RoleTypes/EditarRoleType.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/RoleTypes/EditarRoleType.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmsActorRoles/FilmsActorRoles.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/RoleTypes/EliminarRoleType.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmsActorRoles/FilmsActorRoles.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/RoleTypes/EliminarRoleType.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmsActorRoles/AgregarFilmsActorRole.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmsActorRoles/AgregarFilmsActorRole.razor.g.cs

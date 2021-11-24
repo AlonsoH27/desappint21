@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace segundoexamenparcial.Pages.RoleTypes
+namespace segundoexamenparcial.Pages.FilmsActorRoles
 {
     #line hidden
     using System;
@@ -82,15 +82,13 @@ using segundoexamenparcial.Shared;
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/EliminarRoleType")]
-    public partial class EliminarRoleType : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class EliminarFilmsActorRoles : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
         {
         }
         #pragma warning restore 1998
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
     }
 }
 #pragma warning restore 1591

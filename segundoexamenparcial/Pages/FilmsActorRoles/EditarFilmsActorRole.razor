@@ -1,0 +1,38 @@
+@page "/EditarFilmsActorRole"
+@inject NavigationManager NavigationManager
+@using segundoexamenparcial.Modelo;
+
+<h3>Editar films actor role</h3>
+<div class="row">
+    <div class="col-md-8">
+        <div class="form-group">
+            <label for="filmsActorRolesId" class="control-label">Films actor roles Id</label>
+            <input type="text" id="fullName" class="form-control"/>
+        </div>
+        <div class="form-group">
+            <label for="filmTitleId" class="control-label">Selecciona el film title Id</label>
+            <input type="text" id="fullName" class="form-control"/>
+        </div><div class="form-group">
+            <label for="actorId" class="control-label">Selecciona el actor Id</label>
+            <input type="text" id="fullName" class="form-control"/>
+        </div><div class="form-group">
+            <label for="roleTypeId" class="control-label">Selecciona el role type Id</label>
+            <input type="text" id="fullName" class="form-control"/>
+        </div><div class="form-group">
+            <label for="characterName" class="control-label">Selecciona el character name</label>
+            <input type="text" id="fullName" class="form-control"/>
+        </div><div class="form-group">
+            <label for="characterDescription" class="control-label">Selecciona el character description</label>
+            <input type="text" id="fullName" class="form-control"/>
+        </div>
+        <button type="submit" class="btn btn-primary" >Guardar</button>
+        <button type="button" class="btn btn-primary" >Cancelar</button>
+    </div>
+</div>
+
+@code {
+    FilmsActorRoles obj = new FilmsActorRoles();
+    List<filmTitles> obj1;
+    List<Actor> obj2;
+    List<roleTypes> obj3;
+}
