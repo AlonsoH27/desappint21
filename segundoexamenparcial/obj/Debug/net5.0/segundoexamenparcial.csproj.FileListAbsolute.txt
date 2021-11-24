@@ -101,3 +101,13 @@
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/RoleTypes/EliminarRoleType.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmsActorRoles/AgregarFilmsActorRole.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmsActorRoles/AgregarFilmsActorRole.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmGenres/FilmGenres.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmsActorRoles/EditarFilmsActorRole.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmsActorRoles/EliminarFilmsActorRoles.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmGenres/FilmGenres.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmsActorRoles/EditarFilmsActorRole.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmsActorRoles/EliminarFilmsActorRoles.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmGenres/AgregarFilmGenres.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmGenres/AgregarFilmGenres.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/RazorDeclaration/Pages/FilmGenres/EditarFilmGenres.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial/obj/Debug/net5.0/Razor/Pages/FilmGenres/EditarFilmGenres.razor.g.cs

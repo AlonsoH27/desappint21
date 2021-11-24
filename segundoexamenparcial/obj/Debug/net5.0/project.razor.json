@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 1260031104,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.Actores.AgregarActores",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AgregarActores"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.Actores.AgregarActores"
-        }
-      },
-      {
-        "HashCode": -1293269635,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.Actores.AgregarActores",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "segundoexamenparcial.Pages.Actores.AgregarActores"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.Actores.AgregarActores",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -470021593,
         "Kind": "Components.Component",
         "Name": "segundoexamenparcial.Pages.Actores.EditarActor",
@@ -140,6 +107,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "segundoexamenparcial.Pages.Actores.Actores",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1260031104,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.Actores.AgregarActores",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarActores"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.Actores.AgregarActores"
+        }
+      },
+      {
+        "HashCode": -1293269635,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.Actores.AgregarActores",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.Actores.AgregarActores"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.Actores.AgregarActores",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -375,39 +375,6 @@
         }
       },
       {
-        "HashCode": -1787394022,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.FilmsActorRoles.FilmsActorRoles",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FilmsActorRoles"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.FilmsActorRoles.FilmsActorRoles"
-        }
-      },
-      {
-        "HashCode": 410724052,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial.Pages.FilmsActorRoles.FilmsActorRoles",
-        "AssemblyName": "segundoexamenparcial",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "segundoexamenparcial.Pages.FilmsActorRoles.FilmsActorRoles"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial.Pages.FilmsActorRoles.FilmsActorRoles",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1851605806,
         "Kind": "Components.Component",
         "Name": "segundoexamenparcial.Pages.FilmsActorRoles.AgregarFilmsActorRole",
@@ -503,6 +470,171 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "segundoexamenparcial.Pages.FilmsActorRoles.EliminarFilmsActorRoles",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1787394022,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmsActorRoles.FilmsActorRoles",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FilmsActorRoles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmsActorRoles.FilmsActorRoles"
+        }
+      },
+      {
+        "HashCode": 410724052,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmsActorRoles.FilmsActorRoles",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.FilmsActorRoles.FilmsActorRoles"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmsActorRoles.FilmsActorRoles",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1143359409,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmGenres.AgregarFilmGenres",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarFilmGenres"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmGenres.AgregarFilmGenres"
+        }
+      },
+      {
+        "HashCode": -1182338816,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmGenres.AgregarFilmGenres",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.FilmGenres.AgregarFilmGenres"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmGenres.AgregarFilmGenres",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1412481733,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmGenres.FilmGenres",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FilmGenres"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmGenres.FilmGenres"
+        }
+      },
+      {
+        "HashCode": 2106512498,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmGenres.FilmGenres",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.FilmGenres.FilmGenres"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmGenres.FilmGenres",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 845263031,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmGenres.EditarFilmGenres",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditarFilmGenres"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmGenres.EditarFilmGenres"
+        }
+      },
+      {
+        "HashCode": 1411695901,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmGenres.EditarFilmGenres",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.FilmGenres.EditarFilmGenres"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmGenres.EditarFilmGenres",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1135105799,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmGenres.EliminarFilmGenres",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EliminarFilmGenres"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmGenres.EliminarFilmGenres"
+        }
+      },
+      {
+        "HashCode": -347153492,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial.Pages.FilmGenres.EliminarFilmGenres",
+        "AssemblyName": "segundoexamenparcial",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial.Pages.FilmGenres.EliminarFilmGenres"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial.Pages.FilmGenres.EliminarFilmGenres",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16354,6 +16486,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmGenres/EditarFilmGenres.razor",
+      "TargetPath": "Pages\\FilmGenres\\EditarFilmGenres.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmsActorRoles/FilmsActorRoles.razor",
       "TargetPath": "Pages\\FilmsActorRoles\\FilmsActorRoles.razor",
       "FileKind": "component"
@@ -16389,6 +16526,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmGenres/FilmGenres.razor",
+      "TargetPath": "Pages\\FilmGenres\\FilmGenres.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/Actores/Actores.razor",
       "TargetPath": "Pages\\Actores\\Actores.razor",
       "FileKind": "component"
@@ -16396,6 +16538,11 @@
     {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/App.razor",
       "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmGenres/AgregarFilmGenres.razor",
+      "TargetPath": "Pages\\FilmGenres\\AgregarFilmGenres.razor",
       "FileKind": "component"
     },
     {
@@ -16426,6 +16573,11 @@
     {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/RoleTypes/EditarRoleType.razor",
       "TargetPath": "Pages\\RoleTypes\\EditarRoleType.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmGenres/EliminarFilmGenres.razor",
+      "TargetPath": "Pages\\FilmGenres\\EliminarFilmGenres.razor",
       "FileKind": "component"
     },
     {

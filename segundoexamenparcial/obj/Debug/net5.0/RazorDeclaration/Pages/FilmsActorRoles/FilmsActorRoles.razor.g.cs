@@ -98,7 +98,7 @@ using segundoexamenparcial.Modelo;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 41 "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmsActorRoles/FilmsActorRoles.razor"
+#line 49 "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmsActorRoles/FilmsActorRoles.razor"
        
     List<filmsActorRoles> obj;
 

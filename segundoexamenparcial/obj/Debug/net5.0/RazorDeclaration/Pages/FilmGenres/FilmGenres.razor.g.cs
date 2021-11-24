@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace segundoexamenparcial.Pages.FilmsActorRoles
+namespace segundoexamenparcial.Pages.FilmGenres
 {
     #line hidden
     using System;
@@ -83,14 +83,14 @@ using segundoexamenparcial.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmsActorRoles/EliminarFilmsActorRoles.razor"
+#line 2 "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmGenres/FilmGenres.razor"
 using segundoexamenparcial.Modelo;
 
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/EliminarFilmsActorRoles")]
-    public partial class EliminarFilmsActorRoles : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/FilmGenres")]
+    public partial class FilmGenres : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -98,17 +98,14 @@ using segundoexamenparcial.Modelo;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 33 "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmsActorRoles/EliminarFilmsActorRoles.razor"
+#line 42 "/home/alonso/Documentos/desappint21/segundoexamenparcial/Pages/FilmGenres/FilmGenres.razor"
        
-    FilmsActorRoles obj = new FilmsActorRoles();
-    List<filmTitles> obj1;
-    List<Actor> obj2;
-    List<roleTypes> obj3;
+    List<filmGenres> obj;
+        
 
 #line default
 #line hidden
 #nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
     }
 }
 #pragma warning restore 1591
