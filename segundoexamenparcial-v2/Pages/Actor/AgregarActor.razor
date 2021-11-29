@@ -1,0 +1,42 @@
+@page "/AgregarActor"
+@inject NavigationManager NavigationManager
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioActores serv;
+
+<h3>Agregar actor</h3>
+
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj" OnValidSubmit="@CrearActor">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <div class="form-group">
+                <label for="Nombre" class="control-label">Nombre</label>
+                <InputText id="Nombre" class="form-control" @bind-Value="obj.Nombre"/>
+            </div>
+            <div class="form-group">
+                <label for="Notas" class="control-label">Notas </label>
+                <InputText id="AmNotasaterno" class="form-control" @bind-Value="obj.Notas"/>
+            </div>
+            <button type="submit" class="btn btn-primary" >Guardar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+
+
+
+
+@code {
+    Actor obj = new Actor();
+
+    protected void CrearActor() {
+        serv.Insertar(obj);
+        NavigationManager.NavigateTo("Actores");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("Actores");
+    }
+
+}

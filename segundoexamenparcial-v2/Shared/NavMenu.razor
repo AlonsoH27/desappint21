@@ -1,0 +1,62 @@
+﻿<div class="top-row pl-4 navbar navbar-dark">
+    <a class="navbar-brand" href="">segundoexamenparcial-v2</a>
+    <button class="navbar-toggler" @onclick="ToggleNavMenu">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+</div>
+
+<div class="@NavMenuCssClass" @onclick="ToggleNavMenu">
+    <ul class="nav flex-column">
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Actores">
+                <span class="oi oi-list" aria-hidden="true"></span> Actores
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Certificados">
+                <span class="oi oi-list" aria-hidden="true"></span> Certificado
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Generos">
+                <span class="oi oi-list" aria-hidden="true"></span> Genero
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Peliculas">
+                <span class="oi oi-list" aria-hidden="true"></span> Pelicula
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="PeliculaActorRoles">
+                <span class="oi oi-list" aria-hidden="true"></span> Pelicula actor rol
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="PeliculasProductores">
+                <span class="oi oi-list" aria-hidden="true"></span> Pelicula productor
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Productores">
+                <span class="oi oi-list" aria-hidden="true"></span> Productores
+            </NavLink>
+        </li>
+        <li class="nav-item px-3">
+            <NavLink class="nav-link" href="Roles">
+                <span class="oi oi-list" aria-hidden="true"></span> Roles
+            </NavLink>
+        </li>
+    </ul>
+</div>
+
+@code {
+    private bool collapseNavMenu = true;
+
+    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

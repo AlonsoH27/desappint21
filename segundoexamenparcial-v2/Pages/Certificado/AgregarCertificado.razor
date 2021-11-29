@@ -1,0 +1,38 @@
+@page "/AgregarCertificado"
+@inject NavigationManager NavigationManager
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioCertificados serv;
+
+<h3>Agregar certificado</h3>
+
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj" OnValidSubmit="@crearCertificado">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <div class="form-group">
+                <label for="Id" class="control-label">Descripción</label>
+                <InputText id="Id" class="form-control" @bind-Value="obj.Descripcion"/>
+            </div>
+            <button type="submit" class="btn btn-primary" >Guardar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+
+
+
+
+@code {
+    Certificado obj = new Certificado();
+
+    protected void crearCertificado() {
+        serv.Insertar(obj);
+        NavigationManager.NavigateTo("Certificados");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("Certificados");
+    }
+
+}

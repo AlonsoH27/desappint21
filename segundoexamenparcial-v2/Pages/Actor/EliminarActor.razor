@@ -1,0 +1,45 @@
+@page "/EliminarActor/{Id}"
+@inject NavigationManager NavigationManager
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioActores serv;
+
+<h3>Eliminar actor</h3>
+<hr>
+<h3>¿Estas seguro que lo quieres eliminar?</h3>
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj">
+        <fieldset disabled="true">
+            <div class="form-group">
+                <label for="Nombre" class="control-label"> Nombre </label>
+                <InputText id="Nombre" class="form-control" @bind-Value="obj.Nombre"/>
+            </div>
+            <div class="form-group">
+                <label for="Notas" class="control-label"> Notas </label>
+                <InputText id="AmNotasaterno" class="form-control" @bind-Value="obj.Notas"/>
+            </div>
+        </fieldset>
+            <button type="submit" class="btn btn-primary"  @onclick="@EliminarActors" >Eliminar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+
+@code {
+
+    [Parameter]
+    public string Id {get; set;}
+    Actor obj = new Actor();
+    protected override void OnInitialized() {
+        obj = serv.Obtener(int.Parse(Id));
+    }
+    protected void EliminarActors() {
+        serv.Eliminar(obj);
+        NavigationManager.NavigateTo("Actores");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("Actores");
+    }
+
+}

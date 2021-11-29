@@ -1,0 +1,42 @@
+@page "/EliminarCertificado/{Id}"
+@inject NavigationManager NavigationManager
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioCertificados serv;
+
+<h3>Eliminar certificado</h3>
+
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj">
+        <fieldset disabled="true">
+            <div class="form-group">
+                <label for="Descripcion" class="control-label">Descripción</label>
+                <InputText id="Descripcion" class="form-control" @bind-Value="obj.Descripcion"/>
+            </div>
+        </fieldset>
+            <button type="submit" class="btn btn-primary"  @onclick="@eliminarCertificado" >Eliminar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+
+
+@code {
+    
+    [Parameter]
+    public string Id {get; set;}
+    Certificado obj = new Certificado();
+
+    protected override void OnInitialized() {
+        obj = serv.Obtener(int.Parse(Id));
+    }
+    protected void eliminarCertificado() {
+        serv.Eliminar(obj);
+        NavigationManager.NavigateTo("Certificados");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("Certificados");
+    }
+
+}
