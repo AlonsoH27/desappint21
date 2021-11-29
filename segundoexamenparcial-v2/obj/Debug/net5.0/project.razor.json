@@ -12,6 +12,836 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
+        "HashCode": -1716504960,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Certificado.AgregarCertificado",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarCertificado"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Certificado.AgregarCertificado"
+        }
+      },
+      {
+        "HashCode": 301267842,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Certificado.AgregarCertificado",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Certificado.AgregarCertificado"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Certificado.AgregarCertificado",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -48410994,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Certificado.Certificados",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Certificados"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Certificado.Certificados"
+        }
+      },
+      {
+        "HashCode": -1216253175,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Certificado.Certificados",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Certificado.Certificados"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Certificado.Certificados",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -946272764,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Certificado.EditarCertificado",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditarCertificado"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Certificado.EditarCertificado"
+        }
+      },
+      {
+        "HashCode": 707803858,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Certificado.EditarCertificado",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Certificado.EditarCertificado"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Certificado.EditarCertificado",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -289349708,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Certificado.EliminarCertificado",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EliminarCertificado"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Certificado.EliminarCertificado"
+        }
+      },
+      {
+        "HashCode": -1056782483,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Certificado.EliminarCertificado",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Certificado.EliminarCertificado"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Certificado.EliminarCertificado",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 143540197,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Counter",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Counter"
+        }
+      },
+      {
+        "HashCode": -2060076124,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Counter",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Counter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Counter",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1892731629,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.FetchData",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": -1450505120,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.FetchData",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -752581400,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Index",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 169881102,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Index",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -797408870,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Actor.Actores",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Actores"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Actor.Actores"
+        }
+      },
+      {
+        "HashCode": -942706763,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Actor.Actores",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Actor.Actores"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Actor.Actores",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1823440822,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Actor.AgregarActor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarActor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Actor.AgregarActor"
+        }
+      },
+      {
+        "HashCode": -17047546,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Actor.AgregarActor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Actor.AgregarActor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Actor.AgregarActor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 946555372,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Actor.EditarActor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditarActor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Actor.EditarActor"
+        }
+      },
+      {
+        "HashCode": 873533448,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Actor.EditarActor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Actor.EditarActor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Actor.EditarActor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 47021252,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Actor.EliminarActor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EliminarActor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Actor.EliminarActor"
+        }
+      },
+      {
+        "HashCode": -1705250103,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Actor.EliminarActor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Actor.EliminarActor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Actor.EliminarActor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 616135267,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Genero.Generos",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Generos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Genero.Generos"
+        }
+      },
+      {
+        "HashCode": -1783855201,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Genero.Generos",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Genero.Generos"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Genero.Generos",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1661648905,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Genero.EliminarGenero",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EliminarGenero"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Genero.EliminarGenero"
+        }
+      },
+      {
+        "HashCode": -798613905,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Genero.EliminarGenero",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Genero.EliminarGenero"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Genero.EliminarGenero",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 123624786,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Genero.EditarGenero",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditarGenero"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Genero.EditarGenero"
+        }
+      },
+      {
+        "HashCode": -387603357,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Genero.EditarGenero",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Genero.EditarGenero"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Genero.EditarGenero",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -605904277,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Genero.AgregarGenero",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarGenero"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Genero.AgregarGenero"
+        }
+      },
+      {
+        "HashCode": -1606249627,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Genero.AgregarGenero",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Genero.AgregarGenero"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Genero.AgregarGenero",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1229027436,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.App",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.App"
+        }
+      },
+      {
+        "HashCode": 1068587367,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.App",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 430404378,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Shared.SurveyPrompt",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1354738438,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Shared.SurveyPrompt",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2141202038,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Shared.MainLayout",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Shared.MainLayout"
+        }
+      },
+      {
+        "HashCode": 1438850112,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Shared.MainLayout",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Shared.MainLayout"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Shared.MainLayout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 7050150,
+        "Kind": "Components.ChildContent",
+        "Name": "segundoexamenparcial_v2.Shared.MainLayout.Body",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "segundoexamenparcial_v2.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 996506191,
+        "Kind": "Components.ChildContent",
+        "Name": "segundoexamenparcial_v2.Shared.MainLayout.Body",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "segundoexamenparcial_v2.Shared.MainLayout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "segundoexamenparcial_v2.Shared.MainLayout.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1612243067,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Shared.NavMenu",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 1193030794,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Shared.NavMenu",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 622345495,
         "Kind": "Components.Component",
         "Name": "Microsoft.AspNetCore.Components.Authorization.AuthorizeRouteView",
@@ -15664,6 +16494,16 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Genero/AgregarGenero.razor",
+      "TargetPath": "Pages\\Genero\\AgregarGenero.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Genero/Generos.razor",
+      "TargetPath": "Pages\\Genero\\Generos.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Certificado/EditarCertificado.razor",
       "TargetPath": "Pages\\Certificado\\EditarCertificado.razor",
       "FileKind": "component"
@@ -15676,6 +16516,11 @@
     {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Shared/NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Genero/EditarGenero.razor",
+      "TargetPath": "Pages\\Genero\\EditarGenero.razor",
       "FileKind": "component"
     },
     {
@@ -15697,6 +16542,11 @@
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/_Host.cshtml",
       "TargetPath": "Pages\\_Host.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Genero/EliminarGenero.razor",
+      "TargetPath": "Pages\\Genero\\EliminarGenero.razor",
+      "FileKind": "component"
     },
     {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Certificado/Certificados.razor",

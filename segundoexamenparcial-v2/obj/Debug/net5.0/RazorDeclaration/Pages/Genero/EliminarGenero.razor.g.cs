@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace segundoexamenparcial_v2.Pages.Certificado
+namespace segundoexamenparcial_v2.Pages.Genero
 {
     #line hidden
     using System;
@@ -83,21 +83,21 @@ using segundoexamenparcial_v2.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Certificado/EliminarCertificado.razor"
+#line 3 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Genero/EliminarGenero.razor"
 using segundoexamenparcial_v2.Modelo;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Certificado/EliminarCertificado.razor"
+#line 4 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Genero/EliminarGenero.razor"
 using segundoexamenparcial_v2.Servicio;
 
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/EliminarCertificado/{Id}")]
-    public partial class EliminarCertificado : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/EliminarGenero/{Id}")]
+    public partial class EliminarGenero : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -105,29 +105,29 @@ using segundoexamenparcial_v2.Servicio;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 26 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Certificado/EliminarCertificado.razor"
+#line 28 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Genero/EliminarGenero.razor"
        
-    
+
     [Parameter]
     public string Id {get; set;}
-    Certificado obj = new Certificado();
+    Genero obj = new Genero();
 
     protected override void OnInitialized() {
         obj = serv.Obtener(int.Parse(Id));
     }
-    protected void eliminarCertificado() {
+    protected void EliminarGeneroo() {
         serv.Eliminar(obj);
-        NavigationManager.NavigateTo("Certificados");
+        NavigationManager.NavigateTo("Genero");
     }
     protected void Cancelar() {
-       NavigationManager.NavigateTo("Certificados");
+       NavigationManager.NavigateTo("Generos");
     }
 
 
 #line default
 #line hidden
 #nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioCertificados serv { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioGenero serv { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
     }
 }

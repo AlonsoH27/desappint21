@@ -1,10 +1,10 @@
-@page "/EliminarCertificado/{Id}"
+@page "/EliminarGenero/{Id}"
 @inject NavigationManager NavigationManager
 @using segundoexamenparcial_v2.Modelo;
 @using segundoexamenparcial_v2.Servicio;
-@inject ServicioCertificados serv;
+@inject ServicioGenero serv;
 
-<h3>Eliminar certificado</h3>
+<h3>Eliminar genero</h3>
 <hr>
 <h3>¿Estas seguro que lo quieres eliminar?</h3>
  <div class="row">
@@ -16,28 +16,30 @@
                 <InputText id="Descripcion" class="form-control" @bind-Value="obj.Descripcion"/>
             </div>
         </fieldset>
-            <button type="submit" class="btn btn-primary"  @onclick="@eliminarCertificado" >Eliminar</button>
+            <button type="submit" class="btn btn-primary" @onclick="@EliminarGeneroo" >Eliminar</button>
             <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
     </EditForm> 
     </div>
  </div>
 
 
+
+
 @code {
-    
+
     [Parameter]
     public string Id {get; set;}
-    Certificado obj = new Certificado();
+    Genero obj = new Genero();
 
     protected override void OnInitialized() {
         obj = serv.Obtener(int.Parse(Id));
     }
-    protected void eliminarCertificado() {
+    protected void EliminarGeneroo() {
         serv.Eliminar(obj);
-        NavigationManager.NavigateTo("Certificados");
+        NavigationManager.NavigateTo("Genero");
     }
     protected void Cancelar() {
-       NavigationManager.NavigateTo("Certificados");
+       NavigationManager.NavigateTo("Generos");
     }
 
 }

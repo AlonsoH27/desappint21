@@ -33,6 +33,7 @@ namespace segundoexamenparcial_v2
             services.AddSingleton<WeatherForecastService>();
             services.AddScoped<ServicioActores>();
             services.AddScoped<ServicioCertificados>();
+            services.AddScoped<ServicioGenero>();
 
             services.AddDbContext<DvdContexto>(opciones =>
             opciones.UseSqlite(Configuration.GetConnectionString("ConexionDB")));

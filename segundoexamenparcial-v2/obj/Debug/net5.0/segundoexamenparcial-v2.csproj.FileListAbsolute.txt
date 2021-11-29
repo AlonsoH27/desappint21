@@ -182,3 +182,11 @@
 /home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/Certificado/AgregarCertificado.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/Certificado/EditarCertificado.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/Certificado/EliminarCertificado.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/RazorDeclaration/Pages/Genero/Generos.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/Genero/Generos.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/RazorDeclaration/Pages/Genero/AgregarGenero.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/RazorDeclaration/Pages/Genero/EditarGenero.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/RazorDeclaration/Pages/Genero/EliminarGenero.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/Genero/AgregarGenero.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/Genero/EditarGenero.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/Genero/EliminarGenero.razor.g.cs
