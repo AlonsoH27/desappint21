@@ -1,0 +1,46 @@
+@page "/AgregarProductor"
+@inject NavigationManager NavigationManager
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioProductores serv;
+
+<h3>Agregar productor</h3>
+
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj" OnValidSubmit="@CrearPrductor">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <div class="form-group">
+                <label for="Nombre" class="control-label">Nombre</label>
+                <InputText id="Nombre" class="form-control" @bind-Value="obj.Nombre"/>
+            </div>
+            <div class="form-group">
+                <label for="Correo" class="control-label">Correo </label>
+                <InputText id="Correo" class="form-control" @bind-Value="obj.Correo"/>
+            </div>
+            <div class="form-group">
+                <label for="sitioWeb" class="control-label">Sitio Web </label>
+                <InputText id="sitioWeb" class="form-control" @bind-Value="obj.sitioWeb"/>
+            </div>
+            <button type="submit" class="btn btn-primary" >Guardar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+
+
+
+
+@code {
+    Productor obj = new Productor();
+
+    protected void CrearPrductor() {
+        serv.Insertar(obj);
+        NavigationManager.NavigateTo("Productores");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("Productores");
+    }
+
+}

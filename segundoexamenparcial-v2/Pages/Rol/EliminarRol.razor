@@ -1,0 +1,41 @@
+@page "/EliminarRol/{Id}"
+@inject NavigationManager NavigationManager
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioRoles serv;
+
+<h3>Eliminar rol</h3>
+<hr>
+<h3>¿Estas seguro que lo quieres eliminar?</h3>
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj">
+        <fieldset disabled="true">
+            <div class="form-group">
+                <label for="Tipo" class="control-label"> Tipo </label>
+                <InputText id="Tipo" class="form-control" @bind-Value="obj.Tipo"/>
+            </div>
+        </fieldset>
+            <button type="submit" class="btn btn-primary"  @onclick="@EliminarRols" >Eliminar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+
+@code {
+
+    [Parameter]
+    public string Id {get; set;}
+    Rol obj = new Rol();
+    protected override void OnInitialized() {
+        obj = serv.Obtener(int.Parse(Id));
+    }
+    protected void EliminarRols() {
+        serv.Eliminar(obj);
+        NavigationManager.NavigateTo("Roles");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("Roles");
+    }
+
+}

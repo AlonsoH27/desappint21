@@ -1,0 +1,49 @@
+@page "/EliminarProductor/{Id}"
+@inject NavigationManager NavigationManager
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioProductores serv;
+
+<h3>Eliminar productor</h3>
+<hr>
+<h3>¿Estas seguro que lo quieres eliminar?</h3>
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj">
+        <fieldset disabled="true">
+            <div class="form-group">
+                <label for="Nombre" class="control-label"> Nombre </label>
+                <InputText id="Nombre" class="form-control" @bind-Value="obj.Nombre"/>
+            </div>
+            <div class="form-group">
+                <label for="Correo" class="control-label"> Correo </label>
+                <InputText id="Correo" class="form-control" @bind-Value="obj.Correo"/>
+            </div>
+            <div class="form-group">
+                <label for="sitioWeb" class="control-label"> Sitio web </label>
+                <InputText id="sitioWeb" class="form-control" @bind-Value="obj.sitioWeb"/>
+            </div>
+        </fieldset>
+            <button type="submit" class="btn btn-primary"  @onclick="@EliminarProductorr" >Eliminar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+
+@code {
+
+    [Parameter]
+    public string Id {get; set;}
+    Productor obj = new Productor();
+    protected override void OnInitialized() {
+        obj = serv.Obtener(int.Parse(Id));
+    }
+    protected void EliminarProductorr() {
+        serv.Eliminar(obj);
+        NavigationManager.NavigateTo("Productores");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("Productores");
+    }
+
+}

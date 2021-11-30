@@ -35,6 +35,9 @@ namespace segundoexamenparcial_v2
             services.AddScoped<ServicioCertificados>();
             services.AddScoped<ServicioGenero>();
             services.AddScoped<ServicioPelicula>();
+            services.AddScoped<ServicioPeliculaActorRol>();
+            services.AddScoped<ServicioProductores>();
+            services.AddScoped<ServicioRoles>();
 
             services.AddDbContext<DvdContexto>(opciones =>
             opciones.UseSqlite(Configuration.GetConnectionString("ConexionDB")));

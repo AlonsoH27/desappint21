@@ -1,0 +1,57 @@
+@page "/PeliculaActorRoles"
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioPeliculaActorRol serv
+
+<h3>Información pelicula-actor-rol</h3>
+
+<NavLink class="nav-link" href="AgregarPeliculaActorRol">
+    <span class="oi oi-plus">Agregar pelicula-actor-rol</span>
+</NavLink>
+
+@if (true)
+{
+    <p>Cargando . . .</p>
+} else {
+     <table class="table">
+        <thead>
+            <th>PeliculaId</th>
+            <th>ActorId</th>
+            <th>RolId</th>
+            <th>Personaje</th>
+            <th>Descripcion</th>
+        </thead>
+
+    <tbody>
+        @foreach (var i in obj)
+        {   
+            <tr>
+                <td>@i.PeliculaId</td>
+                <td>@i.ActorId</td>
+                <td>@i.RolId</td>
+                <td>@i.Personaje</td>
+                <td>@i.Descripcion</td>
+                <td>
+                    <a class="nav-link" href="EditaPeliculaActorRol/@i.PeliculaId">
+                        <span class="oi oi-pencil">Editar</span>
+                    </a>
+                    <a class="nav-link" href="EliminarPeliculaActorRol/@i.PeliculaId">
+                        <span class="oi oi-pencil">Eliminar</span>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+
+    </table>
+}
+
+@code {
+    List<PeliculaActorRol> obj;
+
+    protected override void OnInitialized()
+    {
+        obj = serv.obtenerTodo("");
+    } 
+}
