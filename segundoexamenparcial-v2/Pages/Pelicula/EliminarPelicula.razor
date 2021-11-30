@@ -1,0 +1,73 @@
+@page "/EliminarPelicula/{Id}"
+@inject NavigationManager NavigationManager
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioPelicula serv;
+@inject ServicioGenero servGen;
+@inject ServicioCertificados servCert;
+
+
+<h3>Eliminar pelicula</h3>
+<hr>
+<h3>¿Estas seguro que desas Eliminar? </h3>
+
+<div class="row">
+    <div class="col-md-8">
+        <EditForm Model="@obj">
+        <fieldset disabled="true">
+            <div class="form-group">
+                <label for="Titulo" class="control-label">Titulo</label>
+                <InputText id="Titulo" class="form-control" @bind-Value="obj.Titulo"/>
+            </div>
+            <div class="form-group">
+                <label for="Historia" class="control-label">Historia</label>
+                <InputText id="Historia" class="form-control" @bind-Value="obj.Historia"/>
+            </div>
+            <div class="form-group">
+                <label for="fechaEstreno" class="control-label">Fecha estreno</label>
+                <InputDate id="fechaEstreno" class="form-control" @bind-Value="obj.fechaEstreno"/>
+            </div>
+            <div class="form-group">
+                <label for="Duracion" class="control-label">Duración</label>
+                <InputNumber id="Duracion" class="form-control" @bind-Value="obj.Duracion"/>
+            </div>
+            <div class="form-group">
+                <label for="GeneroId" class="control-label">Genero</label>
+                <InputNumber id="GeneroId" class="form-control" @bind-Value="obj.GeneroId"/>
+            </div>
+            <div class="form-group">
+                <label for="CertificadoId" class="control-label">Certificado</label>
+                <InputNumber id="CertificadoId" class="form-control" @bind-Value="obj.CertificadoId"/>
+            </div>
+            <div class="form-group">
+                <label for="Notas" class="control-label">Notas</label>
+                <InputText id="Notas" class="form-control" @bind-Value="obj.Notas"/>
+            </div>
+            </fieldset>
+            <button type="submit" class="btn btn-primary" @onclick="@EliminaPelicula" >Eliminar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+        </EditForm>
+    </div>
+</div>
+
+@code {
+     [Parameter]
+    public string Id {get; set;}
+    Pelicula obj = new Pelicula();
+    List<Genero> objGen;
+    List<Certificado> objCert;
+    protected void Cancelar(){
+        NavigationManager.NavigateTo("Peliculas");
+    }
+    protected override void OnInitialized()
+    {
+        obj = serv.Obtener(int.Parse(Id));
+        objGen = servGen.obtenerTodo("");
+        objCert = servCert.obtenerTodo("");
+    }
+    protected void EliminaPelicula() {
+        serv.Eliminar(obj);
+        NavigationManager.NavigateTo("Peliculas");
+
+    }
+}

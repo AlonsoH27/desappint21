@@ -1,0 +1,70 @@
+@page "/Peliculas"
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioPelicula serv;
+@inject ServicioGenero servGen;
+@inject ServicioCertificados servCert;
+
+<h3>Información actores</h3>
+
+<NavLink class="nav-link" href="AgregarPelicula">
+    <span class="oi oi-plus">Agregar pelicula</span>
+</NavLink>
+
+@if (obj is null)
+{
+    <p>Cargando . . .</p>
+}else {
+    <table class="table">
+        <thead>
+            <th>Id</th>
+            <th>Titulo</th>
+            <th>Historia</th>
+            <th>Fecha Estreno</th>
+            <th>Duración</th>
+            <th>GeneroId</th>
+            <th>CertificadoId</th>
+            <th>Notas</th>
+        </thead>
+
+    <tbody>
+        @foreach (var i in obj)
+        {   
+            <tr>
+                <td>@i.Id</td>
+                <td>@i.Titulo</td>
+                <td>@i.Historia</td>
+                <td>@i.fechaEstreno</td>
+                <td>@i.Duracion</td>
+                <td>@i.GeneroId</td>
+                <td>@i.CertificadoId</td>
+                <td>@i.Notas</td>
+                <td>
+                    <a class="nav-link" href="EditarPelicula/@i.Id">
+                        <span class="oi oi-pencil">Editar</span>
+                    </a>
+                    <a class="nav-link" href="EliminarPelicula/@i.Id">
+                        <span class="oi oi-pencil">Eliminar</span>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+
+    </table>
+}
+
+
+@code {
+    List<Pelicula> obj;
+    List<Genero> objGen;
+    List<Certificado> objCert;
+
+    protected override void OnInitialized()
+    {
+        obj = serv.obtenerTodo("");
+        objGen = servGen.obtenerTodo("");
+        objCert = servCert.obtenerTodo("");
+    }    
+}
