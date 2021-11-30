@@ -65,6 +65,15 @@ namespace segundoexamenparcial_v2.Data
                 new Pelicula {Titulo="Macario", Historia="Ahi macario es el chido", fechaEstreno=DateTime.Parse("1/1/1945"), 
                 Duracion=128, GeneroId=generos.Single(g=>g.Descripcion=="Aventura").Id,
                 CertificadoId=certificados.Single(c=>c.Descripcion=="U").Id},
+                new Pelicula {Titulo="Spiderman", Historia="Una araña lo pico", fechaEstreno=DateTime.Parse("1/1/2007"), 
+                Duracion=128, GeneroId=generos.Single(g=>g.Descripcion=="Aventura").Id,
+                CertificadoId=certificados.Single(c=>c.Descripcion=="U").Id},
+                new Pelicula {Titulo="Batman", Historia="un murgielago", fechaEstreno=DateTime.Parse("1/1/1545"), 
+                Duracion=128, GeneroId=generos.Single(g=>g.Descripcion=="Aventura").Id,
+                CertificadoId=certificados.Single(c=>c.Descripcion=="12A").Id},
+                new Pelicula {Titulo="Goku", Historia="Goku pelea", fechaEstreno=DateTime.Parse("27/09/2015"), 
+                Duracion=128, GeneroId=generos.Single(g=>g.Descripcion=="Aventura").Id,
+                CertificadoId=certificados.Single(c=>c.Descripcion=="U").Id},
             };
             foreach(Pelicula p in peliculas) contexto.Pelicula.Add(p);
             contexto.SaveChanges();

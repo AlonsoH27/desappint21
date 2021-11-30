@@ -83,21 +83,21 @@ using segundoexamenparcial_v2.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/PeliculaActorRol/PeliculaActorRoles.razor"
+#line 3 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/PeliculaActorRol/EditarPeliculaActorRol.razor"
 using segundoexamenparcial_v2.Modelo;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/PeliculaActorRol/PeliculaActorRoles.razor"
+#line 4 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/PeliculaActorRol/EditarPeliculaActorRol.razor"
 using segundoexamenparcial_v2.Servicio;
 
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/PeliculaActorRoles")]
-    public partial class PeliculaActorRoles : Microsoft.AspNetCore.Components.ComponentBase
+    [Microsoft.AspNetCore.Components.RouteAttribute("/EditarPeliculaActorRol/{Id}")]
+    public partial class EditarPeliculaActorRol : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -105,19 +105,41 @@ using segundoexamenparcial_v2.Servicio;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 52 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/PeliculaActorRol/PeliculaActorRoles.razor"
+#line 59 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/PeliculaActorRol/EditarPeliculaActorRol.razor"
        
-    List<PeliculaActorRol> obj;
+    [Parameter]
+    public string Id {get; set;}
+    PeliculaActorRol obj = new PeliculaActorRol();
+    List<Pelicula> objPel;
+    List<Actor> objAct;
+    List<Rol> objRol;
+
+    protected void ActualizarPeliculaActorRoles() {
+        serv.Actualizar(obj);
+        NavigationManager.NavigateTo("PeliculaActorRoles");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("PeliculaActorRoles");
+    }
 
     protected override void OnInitialized()
     {
-        obj = serv.obtenerTodo("");
-    } 
+        obj = serv.Obtener(int.Parse(Id));
+
+        objPel = servPel.obtenerTodo("");
+        objAct = servAct.obtenerTodo("");
+        objRol = servRol.obtenerTodo("");
+    }
+
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioRoles servRol { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioActores servAct { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioPelicula servPel { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioPeliculaActorRol serv { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
     }
 }
 #pragma warning restore 1591

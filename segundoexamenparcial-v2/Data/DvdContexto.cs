@@ -16,10 +16,10 @@ namespace segundoexamenparcial_v2
         public DbSet<Rol> Roles {get; set;}
         public DbSet<Productor> Productores {get; set;}
 
-        protected override void OnModelCreating(ModelBuilder model) {
+/*        protected override void OnModelCreating(ModelBuilder model) {
             model.Entity<PeliculaActorRol>().HasKey(k=> new{k.PeliculaId, k.ActorId, k.RolId});
             model.Entity<PeliculaProductor>().HasKey(k=> new {k.ProductorId, k.PeliculaId});
-        }
+        }*/
 
     }
 }

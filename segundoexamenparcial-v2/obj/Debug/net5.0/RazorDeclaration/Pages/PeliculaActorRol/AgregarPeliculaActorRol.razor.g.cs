@@ -104,8 +104,37 @@ using segundoexamenparcial_v2.Servicio;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 59 "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/PeliculaActorRol/AgregarPeliculaActorRol.razor"
+       
+    PeliculaActorRol obj = new PeliculaActorRol();
+    List<Pelicula> objPel;
+    List<Actor> objAct;
+    List<Rol> objRol;
+
+    protected void CrearPeliculaActorRol() {
+        serv.Insertar(obj);
+        NavigationManager.NavigateTo("PeliculaActorRoles");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("PeliculaActorRoles");
+    }
+
+    protected override void OnInitialized()
+    {
+        objPel = servPel.obtenerTodo("");
+        objAct = servAct.obtenerTodo("");
+        objRol = servRol.obtenerTodo("");
+    }
+
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioRoles servRol { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioActores servAct { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioPelicula servPel { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private ServicioPeliculaActorRol serv { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
     }
 }

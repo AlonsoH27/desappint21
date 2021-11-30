@@ -4,6 +4,7 @@ namespace segundoexamenparcial_v2.Modelo
 {
     public class PeliculaActorRol {
         [Key]
+        public int Id {get; set;}
         public int PeliculaId {get; set;}
         [Required]
         public int ActorId {get; set;}

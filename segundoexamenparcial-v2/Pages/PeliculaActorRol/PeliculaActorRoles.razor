@@ -9,15 +9,16 @@
     <span class="oi oi-plus">Agregar pelicula-actor-rol</span>
 </NavLink>
 
-@if (true)
+@if (obj is null)
 {
     <p>Cargando . . .</p>
 } else {
      <table class="table">
         <thead>
-            <th>PeliculaId</th>
-            <th>ActorId</th>
-            <th>RolId</th>
+            <th>Id</th>
+            <th>Pelicula Id</th>
+            <th>Actor Id</th>
+            <th>Rol Id</th>
             <th>Personaje</th>
             <th>Descripcion</th>
         </thead>
@@ -26,16 +27,17 @@
         @foreach (var i in obj)
         {   
             <tr>
+                <td>@i.Id</td>
                 <td>@i.PeliculaId</td>
                 <td>@i.ActorId</td>
                 <td>@i.RolId</td>
                 <td>@i.Personaje</td>
                 <td>@i.Descripcion</td>
                 <td>
-                    <a class="nav-link" href="EditaPeliculaActorRol/@i.PeliculaId">
+                    <a class="nav-link" href="EditarPeliculaActorRol/@i.Id">
                         <span class="oi oi-pencil">Editar</span>
                     </a>
-                    <a class="nav-link" href="EliminarPeliculaActorRol/@i.PeliculaId">
+                    <a class="nav-link" href="EliminarPeliculaActorRol/@i.Id">
                         <span class="oi oi-pencil">Eliminar</span>
                     </a>
                 </td>

@@ -1,4 +1,4 @@
-@page "/AgregarPeliculaActorRol"
+@page "/EliminarPeliculaActorRol/{Id}"
 @inject NavigationManager NavigationManager
 @using segundoexamenparcial_v2.Modelo;
 @using segundoexamenparcial_v2.Servicio;
@@ -7,39 +7,27 @@
 @inject ServicioActores servAct;
 @inject ServicioRoles servRol;
 
-<h3>Agregar pelicula-actor-rol</h3>
+
+<h3>Eliminar pelicula-actor-rol</h3>
+<hr>
+<h3>¿Estas seguro que desas Eliminar? </h3>
+
 
  <div class="row">
     <div class="col-md-8">
-    <EditForm Model="@obj" OnValidSubmit="@CrearPeliculaActorRol">
-            <DataAnnotationsValidator />
-            <ValidationSummary />
+    <EditForm Model="@obj">
+        <fieldset disabled="true">
             <div class="form-group">
                 <label for="PeliculaId" class="control-label">Pelicula Id</label>
-                <InputSelect id="PeliculaId" class="form-control" @bind-Value="obj.PeliculaId">
-                    @foreach (var p in @objPel)
-                    {
-                        <option value="@p.Id">@p.Titulo</option> 
-                    }
-                </InputSelect>    
+                <InputNumber id="PeliculaId" class="form-control" @bind-Value="obj.PeliculaId"/>
             </div>
             <div class="form-group">
                 <label for="ActorId" class="control-label">Actor Id </label>
-                <InputSelect id="ActorId" class="form-control" @bind-Value="obj.ActorId">
-                    @foreach (var ac in @objAct)
-                    {
-                        <option value="@ac.Id">@ac.Nombre</option> 
-                    }
-                </InputSelect>
+                <InputNumber id="ActorId" class="form-control" @bind-Value="obj.ActorId"/>
             </div>
             <div class="form-group">
                 <label for="RolId" class="control-label">Rol Id </label>
-                <InputSelect id="RolId" class="form-control" @bind-Value="obj.RolId">
-                    @foreach (var r in @objRol)
-                    {
-                        <option value="@r.Id">@r.Tipo</option> 
-                    }
-                </InputSelect>
+                <InputNumber id="RolId" class="form-control" @bind-Value="obj.RolId"/>
             </div>
             <div class="form-group">
                 <label for="Personaje" class="control-label">Personaje </label>
@@ -49,7 +37,8 @@
                 <label for="Descripcion" class="control-label">Descripción </label>
                 <InputText id="Descripcion" class="form-control" @bind-Value="obj.Descripcion"/>
             </div>
-            <button type="submit" class="btn btn-primary" >Guardar</button>
+            </fieldset>
+            <button type="submit" class="btn btn-primary" @onclick="EliminarPelActRol">Eliminar</button>
             <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
     </EditForm> 
     </div>
@@ -57,13 +46,15 @@
 
 
 @code {
+    [Parameter]
+    public string Id {get; set;}
     PeliculaActorRol obj = new PeliculaActorRol();
     List<Pelicula> objPel;
     List<Actor> objAct;
     List<Rol> objRol;
 
-    protected void CrearPeliculaActorRol() {
-        serv.Insertar(obj);
+    protected void EliminarPelActRol() {
+        serv.Eliminar(obj);
         NavigationManager.NavigateTo("PeliculaActorRoles");
     }
     protected void Cancelar() {
@@ -72,6 +63,7 @@
 
     protected override void OnInitialized()
     {
+        obj = serv.Obtener(int.Parse(Id));
         objPel = servPel.obtenerTodo("");
         objAct = servAct.obtenerTodo("");
         objRol = servRol.obtenerTodo("");
