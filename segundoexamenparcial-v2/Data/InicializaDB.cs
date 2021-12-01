@@ -23,7 +23,7 @@ namespace segundoexamenparcial_v2.Data
 
             //Agrega Roles
             var roles = new Rol [] {
-                new Rol {Tipo = "Personaje principla"},
+                new Rol {Tipo = "Personaje principal"},
                 new Rol {Tipo = "Personaje secundario"},
                 new Rol {Tipo = "Cameo"},
                 new Rol {Tipo = "Extra"},
@@ -80,12 +80,37 @@ namespace segundoexamenparcial_v2.Data
 
 
             //Agrega Pelicula Actor Rol
+            var par =new PeliculaActorRol[]{
+                new PeliculaActorRol {PeliculaId=peliculas.Single(p=>p.Titulo=="Goku").Id,
+                ActorId=actores.Single(a=>a.Nombre=="Cantinflas").Id,
+                RolId=roles.Single(r=>r.Tipo=="Extra").Id},
+                new PeliculaActorRol {PeliculaId=peliculas.Single(p=>p.Titulo=="Spiderman").Id,
+                ActorId=actores.Single(a=>a.Nombre=="Pedro infante").Id,
+                RolId=roles.Single(r=>r.Tipo=="Cameo").Id},
+                new PeliculaActorRol {PeliculaId=peliculas.Single(p=>p.Titulo=="Batman").Id,
+                ActorId=actores.Single(a=>a.Nombre=="Cantinflas").Id,
+                RolId=roles.Single(r=>r.Tipo=="Personaje principal").Id},
+                new PeliculaActorRol {PeliculaId=peliculas.Single(p=>p.Titulo=="Macario").Id,
+                ActorId=actores.Single(a=>a.Nombre=="Pedro infante").Id,
+                RolId=roles.Single(r=>r.Tipo=="Personaje secundario").Id},
+            };
+            foreach(PeliculaActorRol pAl in par) contexto.PeliculaActorRol.Add(pAl);
+            contexto.SaveChanges();
+
 
             //Agrega Pelicula Productor
-            //var pelpro = new PeliculaProductor[] {
-                //new PeliculaProductor {ProductorId=productores.Single(p=>p.Id=true), PeliculaId=peliculas.Single(pel=>pel.Titulo=="Macario")},
-            //};
-
+            var pelpro = new PeliculaProductor[] {
+                new PeliculaProductor {ProductorId=productores.Single(p=>p.Nombre=="Diego luna").Id, 
+                PeliculaId=peliculas.Single(pel=>pel.Titulo=="Batman").Id},
+                new PeliculaProductor {ProductorId=productores.Single(p=>p.Nombre=="Cuaron").Id, 
+                PeliculaId=peliculas.Single(pel=>pel.Titulo=="Macario").Id},
+                new PeliculaProductor {ProductorId=productores.Single(p=>p.Nombre=="Guillermo del Toro").Id, 
+                PeliculaId=peliculas.Single(pel=>pel.Titulo=="Spiderman").Id},
+                new PeliculaProductor {ProductorId=productores.Single(p=>p.Nombre=="Guillermo del Toro").Id, 
+                PeliculaId=peliculas.Single(pel=>pel.Titulo=="Goku").Id},
+            };
+            foreach(PeliculaProductor pp in pelpro) contexto.PeliculaProductor.Add(pp);
+            contexto.SaveChanges();
 
 
         }

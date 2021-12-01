@@ -4,8 +4,8 @@ namespace segundoexamenparcial_v2.Modelo
 {
     public class PeliculaProductor {
         [Key]
+        public int Id {get; set;}
         public int ProductorId {get; set;}
-        [Required]
         public int PeliculaId {get; set;}
 
         public Productor Productor {get; set;}

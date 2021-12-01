@@ -36,6 +36,7 @@ namespace segundoexamenparcial_v2
             services.AddScoped<ServicioGenero>();
             services.AddScoped<ServicioPelicula>();
             services.AddScoped<ServicioPeliculaActorRol>();
+            services.AddScoped<ServicioPeliculaProductor>();
             services.AddScoped<ServicioProductores>();
             services.AddScoped<ServicioRoles>();
 

@@ -1,0 +1,66 @@
+@page "/EditarPeliculaProductor/{Id}"
+@inject NavigationManager NavigationManager
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioPeliculaProductor serv;
+@inject ServicioPelicula servPel;
+@inject ServicioProductores servProd;
+
+<h3>Editar pelicula-productor</h3>
+
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj" OnValidSubmit="@ActualizarPeliculaProductor">
+            <DataAnnotationsValidator />
+            <ValidationSummary />
+            <div class="form-group">
+                <label for="ProductorId" class="control-label">Productor Id</label>
+                <InputSelect id="ProductorId" class="form-control" @bind-Value="obj.ProductorId">
+                    @foreach (var p in @objProd)
+                    {
+                        <option value="@p.Id">@p.Nombre</option> 
+                    }
+                </InputSelect>
+            </div>
+            <div class="form-group">
+                <label for="PeliculaId" class="control-label">Pelicula Id </label>
+                <InputSelect id="PeliculaId" class="form-control" @bind-Value="obj.PeliculaId">
+                    @foreach (var c in @objPel)
+                    {
+                        <option value="@c.Id">@c.Titulo</option> 
+                    }
+                </InputSelect>
+            </div>
+            <button type="submit" class="btn btn-primary" >Guardar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+
+
+
+
+@code {
+
+    [Parameter]
+    public string Id {get; set;}
+    PeliculaProductor obj = new PeliculaProductor();
+    List<Pelicula> objPel;
+    List<Productor> objProd;
+
+    protected void ActualizarPeliculaProductor() {
+        serv.Actualizar(obj);
+        NavigationManager.NavigateTo("PeliculasProductores");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("PeliculasProductores");
+    }
+
+    protected override void OnInitialized()
+    {
+        obj = serv.Obtener(int.Parse(Id));
+        objPel = servPel.obtenerTodo("");
+        objProd = servProd.obtenerTodo("");
+    }
+
+}

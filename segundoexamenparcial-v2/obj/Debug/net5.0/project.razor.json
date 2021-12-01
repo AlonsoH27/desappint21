@@ -627,92 +627,6 @@
         }
       },
       {
-        "HashCode": 103207105,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial_v2.Pages.Pelicula.AgregarPelicula",
-        "AssemblyName": "segundoexamenparcial-v2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AgregarPelicula"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial_v2.Pages.Pelicula.AgregarPelicula"
-        }
-      },
-      {
-        "HashCode": 947546806,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial_v2.Pages.Pelicula.AgregarPelicula",
-        "AssemblyName": "segundoexamenparcial-v2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "segundoexamenparcial_v2.Pages.Pelicula.AgregarPelicula"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial_v2.Pages.Pelicula.AgregarPelicula",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -246600557,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial_v2.Pages.Pelicula.EditarPelicula",
-        "AssemblyName": "segundoexamenparcial-v2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "EditarPelicula"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial_v2.Pages.Pelicula.EditarPelicula"
-        }
-      },
-      {
-        "HashCode": 1607355979,
-        "Kind": "Components.Component",
-        "Name": "segundoexamenparcial_v2.Pages.Pelicula.EditarPelicula",
-        "AssemblyName": "segundoexamenparcial-v2",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "segundoexamenparcial_v2.Pages.Pelicula.EditarPelicula"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial_v2.Pages.Pelicula.EditarPelicula",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -1245639381,
         "Kind": "Components.Component",
         "Name": "segundoexamenparcial_v2.Pages.Pelicula.EliminarPelicula",
@@ -799,6 +713,92 @@
         }
       },
       {
+        "HashCode": 103207105,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Pelicula.AgregarPelicula",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarPelicula"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Pelicula.AgregarPelicula"
+        }
+      },
+      {
+        "HashCode": 947546806,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Pelicula.AgregarPelicula",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Pelicula.AgregarPelicula"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Pelicula.AgregarPelicula",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -246600557,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Pelicula.EditarPelicula",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditarPelicula"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Pelicula.EditarPelicula"
+        }
+      },
+      {
+        "HashCode": 1607355979,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.Pelicula.EditarPelicula",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.Pelicula.EditarPelicula"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.Pelicula.EditarPelicula",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 852237241,
         "Kind": "Components.Component",
         "Name": "segundoexamenparcial_v2.Pages.PeliculaActorRol.AgregarPeliculaActorRol",
@@ -832,35 +832,55 @@
         }
       },
       {
-        "HashCode": -1125748855,
+        "HashCode": 1374340522,
         "Kind": "Components.Component",
-        "Name": "segundoexamenparcial_v2.Pages.PeliculaActorRol.PeliculaActorRoles",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaActorRol.EditarPeliculaActorRol",
         "AssemblyName": "segundoexamenparcial-v2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "PeliculaActorRoles"
+            "TagName": "EditarPeliculaActorRol"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.PeliculaActorRoles"
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.EditarPeliculaActorRol"
         }
       },
       {
-        "HashCode": -2079196466,
+        "HashCode": 1872103058,
         "Kind": "Components.Component",
-        "Name": "segundoexamenparcial_v2.Pages.PeliculaActorRol.PeliculaActorRoles",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaActorRol.EditarPeliculaActorRol",
         "AssemblyName": "segundoexamenparcial-v2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.PeliculaActorRoles"
+            "TagName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.EditarPeliculaActorRol"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.PeliculaActorRoles",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.EditarPeliculaActorRol",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -918,55 +938,35 @@
         }
       },
       {
-        "HashCode": 1374340522,
+        "HashCode": -1125748855,
         "Kind": "Components.Component",
-        "Name": "segundoexamenparcial_v2.Pages.PeliculaActorRol.EditarPeliculaActorRol",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaActorRol.PeliculaActorRoles",
         "AssemblyName": "segundoexamenparcial-v2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "EditarPeliculaActorRol"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
+            "TagName": "PeliculaActorRoles"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.EditarPeliculaActorRol"
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.PeliculaActorRoles"
         }
       },
       {
-        "HashCode": 1872103058,
+        "HashCode": -2079196466,
         "Kind": "Components.Component",
-        "Name": "segundoexamenparcial_v2.Pages.PeliculaActorRol.EditarPeliculaActorRol",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaActorRol.PeliculaActorRoles",
         "AssemblyName": "segundoexamenparcial-v2",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.EditarPeliculaActorRol"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Id",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Id"
-            }
+            "TagName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.PeliculaActorRoles"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.EditarPeliculaActorRol",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaActorRol.PeliculaActorRoles",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -1311,6 +1311,178 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "segundoexamenparcial_v2.Pages.Rol.Roles",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 422055891,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaProductor.EditarPeliculaProductor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EditarPeliculaProductor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaProductor.EditarPeliculaProductor"
+        }
+      },
+      {
+        "HashCode": -1415818292,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaProductor.EditarPeliculaProductor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.PeliculaProductor.EditarPeliculaProductor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaProductor.EditarPeliculaProductor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -211739133,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaProductor.AgregarPeliculaProductor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarPeliculaProductor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaProductor.AgregarPeliculaProductor"
+        }
+      },
+      {
+        "HashCode": 897634535,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaProductor.AgregarPeliculaProductor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.PeliculaProductor.AgregarPeliculaProductor"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaProductor.AgregarPeliculaProductor",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1277589099,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaProductor.PeliculasProductores",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PeliculasProductores"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaProductor.PeliculasProductores"
+        }
+      },
+      {
+        "HashCode": -336251865,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaProductor.PeliculasProductores",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.PeliculaProductor.PeliculasProductores"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaProductor.PeliculasProductores",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -845377546,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaProductor.EliminarPeliculaProductor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "EliminarPeliculaProductor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaProductor.EliminarPeliculaProductor"
+        }
+      },
+      {
+        "HashCode": 883058394,
+        "Kind": "Components.Component",
+        "Name": "segundoexamenparcial_v2.Pages.PeliculaProductor.EliminarPeliculaProductor",
+        "AssemblyName": "segundoexamenparcial-v2",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "segundoexamenparcial_v2.Pages.PeliculaProductor.EliminarPeliculaProductor"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Id",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Id"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "segundoexamenparcial_v2.Pages.PeliculaProductor.EliminarPeliculaProductor",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -17152,6 +17324,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/PeliculaProductor/AgregarPeliculaProductor.razor",
+      "TargetPath": "Pages\\PeliculaProductor\\AgregarPeliculaProductor.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Error.cshtml",
       "TargetPath": "Pages\\Error.cshtml",
       "FileKind": "mvc"
@@ -17277,6 +17454,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/PeliculaProductor/EliminarPeliculaProductor.razor",
+      "TargetPath": "Pages\\PeliculaProductor\\EliminarPeliculaProductor.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Productor/EditarProductor.razor",
       "TargetPath": "Pages\\Productor\\EditarProductor.razor",
       "FileKind": "component"
@@ -17284,6 +17466,16 @@
     {
       "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/Genero/EditarGenero.razor",
       "TargetPath": "Pages\\Genero\\EditarGenero.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/PeliculaProductor/PeliculasProductores.razor",
+      "TargetPath": "Pages\\PeliculaProductor\\PeliculasProductores.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/Pages/PeliculaProductor/EditarPeliculaProductor.razor",
+      "TargetPath": "Pages\\PeliculaProductor\\EditarPeliculaProductor.razor",
       "FileKind": "component"
     },
     {

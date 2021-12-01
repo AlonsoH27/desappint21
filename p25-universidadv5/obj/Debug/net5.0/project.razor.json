@@ -762,6 +762,39 @@
         }
       },
       {
+        "HashCode": 1874166145,
+        "Kind": "Components.Component",
+        "Name": "p21_universidadv1.Pages.Inscripcion.AgregarInscripciones",
+        "AssemblyName": "p21-universidadv1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AgregarInscripciones"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p21_universidadv1.Pages.Inscripcion.AgregarInscripciones"
+        }
+      },
+      {
+        "HashCode": 784612510,
+        "Kind": "Components.Component",
+        "Name": "p21_universidadv1.Pages.Inscripcion.AgregarInscripciones",
+        "AssemblyName": "p21-universidadv1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "p21_universidadv1.Pages.Inscripcion.AgregarInscripciones"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "p21_universidadv1.Pages.Inscripcion.AgregarInscripciones",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1707001551,
         "Kind": "Components.Component",
         "Name": "p21_universidadv1.Pages.Inscripcion.EditarInscripciones",

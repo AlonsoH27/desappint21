@@ -1,0 +1,54 @@
+@page "/PeliculasProductores"
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioPeliculaProductor serv;
+
+<h3>Información pelicula-productor</h3>
+
+<NavLink class="nav-link" href="AgregarPeliculaProductor">
+    <span class="oi oi-plus">Agregar pelicula-productor</span>
+</NavLink>
+
+@if (obj is null)
+{
+    <p>Cargando . . .</p>
+}else {
+    <table class="table">
+        <thead>
+            <th>Id</th>
+            <th>Productor Id</th>
+            <th>Pelicula Id</th>
+        </thead>
+
+    <tbody>
+        @foreach (var i in obj)
+        {   
+            <tr>
+                <td>@i.Id</td>
+                <td>@i.ProductorId</td>
+                <td>@i.PeliculaId</td>
+                <td>
+                    <a class="nav-link" href="EditarPeliculaProductor/@i.Id">
+                        <span class="oi oi-pencil">Editar</span>
+                    </a>
+                    <a class="nav-link" href="EliminarPeliculaProductor/@i.Id">
+                        <span class="oi oi-pencil">Eliminar</span>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+
+    </table>
+}
+
+
+@code {
+    List<PeliculaProductor> obj;
+
+    protected override void OnInitialized()
+    {
+        obj = serv.obtenerTodo("");
+    }    
+}

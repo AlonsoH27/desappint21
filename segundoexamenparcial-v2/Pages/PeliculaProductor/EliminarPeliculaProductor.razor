@@ -1,0 +1,52 @@
+@page "/EliminarPeliculaProductor/{Id}"
+@inject NavigationManager NavigationManager
+@using segundoexamenparcial_v2.Modelo;
+@using segundoexamenparcial_v2.Servicio;
+@inject ServicioPeliculaProductor serv;
+@inject ServicioPelicula servPel;
+@inject ServicioProductores servProd;
+
+<h3>Editar pelicula-productor</h3>
+
+ <div class="row">
+    <div class="col-md-8">
+    <EditForm Model="@obj">
+        <fieldset disabled="true">
+            <div class="form-group">
+                <label for="ProductorId" class="control-label">Productor Id</label>
+                <InputNumber id="ProductorId" class="form-control" @bind-Value="obj.ProductorId"/>
+            </div>
+            <div class="form-group">
+                <label for="PeliculaId" class="control-label">Pelicula Id </label>
+                <InputNumber id="PeliculaId" class="form-control" @bind-Value="obj.PeliculaId"/>
+            </div>
+        </fieldset>
+            <button type="submit" class="btn btn-primary"@onclick="EliminarPeliculaProductorr" >Eliminar</button>
+            <button type="button" class="btn btn-primary" @onclick="@Cancelar" >Cancelar</button>
+    </EditForm> 
+    </div>
+ </div>
+
+
+
+
+@code {
+
+    [Parameter]
+    public string Id {get; set;}
+    PeliculaProductor obj = new PeliculaProductor();    
+
+    protected void EliminarPeliculaProductorr() {
+        serv.Eliminar(obj);
+        NavigationManager.NavigateTo("PeliculasProductores");
+    }
+    protected void Cancelar() {
+       NavigationManager.NavigateTo("PeliculasProductores");
+    }
+
+    protected override void OnInitialized()
+    {
+        obj = serv.Obtener(int.Parse(Id));
+    }
+
+}

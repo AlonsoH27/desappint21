@@ -222,3 +222,11 @@
 /home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/RazorDeclaration/Pages/PeliculaActorRol/EliminarPeliculaActorRol.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/PeliculaActorRol/EditarPeliculaActorRol.razor.g.cs
 /home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/PeliculaActorRol/EliminarPeliculaActorRol.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/RazorDeclaration/Pages/PeliculaProductor/AgregarPeliculaProductor.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/PeliculaProductor/AgregarPeliculaProductor.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/RazorDeclaration/Pages/PeliculaProductor/PeliculasProductores.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/PeliculaProductor/PeliculasProductores.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/RazorDeclaration/Pages/PeliculaProductor/EditarPeliculaProductor.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/PeliculaProductor/EditarPeliculaProductor.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/RazorDeclaration/Pages/PeliculaProductor/EliminarPeliculaProductor.razor.g.cs
+/home/alonso/Documentos/desappint21/segundoexamenparcial-v2/obj/Debug/net5.0/Razor/Pages/PeliculaProductor/EliminarPeliculaProductor.razor.g.cs
